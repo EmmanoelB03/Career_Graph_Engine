@@ -127,13 +127,16 @@ def calculate_match_for_role(G, market, candidate_skills, target_role):
             "gaps": gap_list, "gap_count": len(gap_list)}
 
 
-def generate_pyvis_for_role(G, result, candidate_skills):
+
+def generate_pyvis_graph(G, match_results, candidate_skills):
     try:
         from pyvis.network import Network
     except ImportError:
         print("  PyVis não instalado.")
         return
 
+    # Pega o primeiro resultado (o cargo-alvo de maior score)
+    result = match_results[0]
     target_role = result["role"]
     matched_set = set(result["matched_skills"])
     gap_set = {g["skill"] for g in result["gaps"]}
