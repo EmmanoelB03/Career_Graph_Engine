@@ -11,6 +11,7 @@ from pathlib import Path
 from collections import defaultdict
 
 import networkx as nx
+from ontology import annotate_graph_to_rdf, available as ontology_available
 
 
 def load_data() -> tuple[dict, list[str]]:
@@ -128,14 +129,15 @@ def calculate_match_for_role(G, market, candidate_skills, target_role):
 
 
 
-def generate_pyvis_for_role(G, result, candidate_skills):
+def generate_pyvis_graph(G, match_results, candidate_skills):
     try:
         from pyvis.network import Network
     except ImportError:
         print("  PyVis não instalado.")
         return
 
-    # Pega os dados do cargo-alvo
+    # Pega o primeiro resultado (o cargo-alvo de maior score)
+    result = match_results[0]
     target_role = result["role"]
     matched_set = set(result["matched_skills"])
     gap_set = {g["skill"] for g in result["gaps"]}
@@ -150,7 +152,7 @@ def generate_pyvis_for_role(G, result, candidate_skills):
         ntype = G.nodes[node].get("node_type", "")
         if ntype == "candidate":
             net.add_node(node, label="VOCÊ", color="#4f8ef7", size=42,
-                         title="Seu perfil", shape="star", font={"size": 18, "bold": True})
+                         title="Seu perfil", shape="circle", font={"size": 18, "bold": True})
         elif node == target_role:
             score = result["score"]
             color = "#00c896" if score >= 80 else "#f0a500" if score >= 60 else "#e05c5c"
@@ -185,6 +187,13 @@ def generate_pyvis_for_role(G, result, candidate_skills):
     Path("output").mkdir(exist_ok=True)
     net.save_graph("output/career_graph.html")
     print("  ✓ Grafo salvo em output/career_graph.html")
+
+
+def generate_pyvis_for_role(G, result: dict, candidate_skills: list[str]):
+    """Wrapper compatível com `app.py`: gera visualização PyVis para um único resultado de cargo.
+    Reaproveita `generate_pyvis_graph` passando uma lista com o resultado.
+    """
+    generate_pyvis_graph(G, [result], candidate_skills)
 
 
 def print_report(match_results: list[dict]):
@@ -227,6 +236,23 @@ def run():
 
     print("\nCalculando scores de aderência...")
     match_results = calculate_match_scores(G, market, candidate_skills)
+
+    # Anotações da ontologia (opcional, usa rdflib se disponível)
+    if ontology_available():
+        try:
+            top_result = match_results[0] if match_results else None
+            outpath = annotate_graph_to_rdf(
+                G,
+                output_path="output/career_ontology.ttl",
+                market=market,
+                match_result=top_result,
+                candidate_skills=candidate_skills,
+                target_role=market.get("target_role"),
+            )
+            if outpath:
+                print(f"  ✓ Ontologia salva em {outpath}")
+        except Exception as e:
+            print(f"  ! Falha ao serializar ontologia: {e}")
 
     # Salva resultados
     out = Path("data")
