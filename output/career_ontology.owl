@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:career="http://example.org/career#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/career#CANDIDATE">
+    <rdf:type rdf:resource="http://example.org/career#Candidate"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Você</rdfs:label>
+    <career:hasSkill rdf:resource="http://example.org/career#Python"/>
+    <career:hasWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</career:hasWeight>
+    <career:nodeType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">candidate</career:nodeType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#CareerOntology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Career Graph Ontology</rdfs:label>
+    <rdfs:comment>Ontology generated from the Career Graph Engine.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#sourceCount">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sourceCount</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#MarketSnapshot"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#requiresSkill">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">requiresSkill</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Role"/>
+    <rdfs:range rdf:resource="http://example.org/career#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Person">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#missingSkill">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">missingSkill</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Gap"/>
+    <rdfs:range rdf:resource="http://example.org/career#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#SkillCategory">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skill Category</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Groups related skills into a conceptual category.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#hasWeight">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasWeight</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Entity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#targetRoleName">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">targetRoleName</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#MatchResult"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#WorkRole">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Work Role</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#MatchResult">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Match Result</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outcome of the candidate-to-role matching.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.org/career#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#MarketSnapshot">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Market Snapshot</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aggregated market view extracted from job postings.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.org/career#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#skillFrequency">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skillFrequency</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Skill"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#nodeType">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nodeType</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Entity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Role">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Role</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Represents a target job role.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.org/career#WorkRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Gap">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gap</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A missing skill that contributes to a lower match score.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.org/career#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#gap_SQL">
+    <rdf:type rdf:resource="http://example.org/career#Gap"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SQL</rdfs:label>
+    <career:hasWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">60.0</career:hasWeight>
+    <career:missingSkill rdf:resource="http://example.org/career#SQL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#MatchResultCurrent">
+    <rdf:type rdf:resource="http://example.org/career#MatchResult"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Current match result</rdfs:label>
+    <career:hasScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">80.0</career:hasScore>
+    <career:matchedSkill rdf:resource="http://example.org/career#Python"/>
+    <career:missingSkill rdf:resource="http://example.org/career#gap_SQL"/>
+    <career:targetRoleName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Engineer</career:targetRoleName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#hasScore">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasScore</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#MatchResult"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Dataset">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dataset</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#relatedTo">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">relatedTo</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Entity"/>
+    <rdfs:range rdf:resource="http://example.org/career#Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Python">
+    <rdf:type rdf:resource="http://example.org/career#Skill"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Python</rdfs:label>
+    <career:hasWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.8</career:hasWeight>
+    <career:nodeType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">candidate_skill</career:nodeType>
+    <career:requiresSkill rdf:resource="http://example.org/career#Data_Engineer"/>
+    <career:skillFrequency rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.8</career:skillFrequency>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#MarketSnapshotCurrent">
+    <rdf:type rdf:resource="http://example.org/career#MarketSnapshot"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Current market snapshot</rdfs:label>
+    <career:sourceCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</career:sourceCount>
+    <career:targetRoleName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Engineer</career:targetRoleName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Data_Engineer">
+    <rdf:type rdf:resource="http://example.org/career#Role"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Engineer</rdfs:label>
+    <career:nodeType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">role</career:nodeType>
+    <career:requiresSkill rdf:resource="http://example.org/career#Python"/>
+    <career:requiresSkill rdf:resource="http://example.org/career#SQL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#hasRole">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasRole</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#MatchResult"/>
+    <rdfs:range rdf:resource="http://example.org/career#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#appearsInJobs">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">appearsInJobs</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Skill"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#SQL">
+    <rdf:type rdf:resource="http://example.org/career#Skill"/>
+    <career:skillFrequency rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.6</career:skillFrequency>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#hasSkill">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasSkill</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#Candidate"/>
+    <rdfs:range rdf:resource="http://example.org/career#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Candidate">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Candidate</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Represents the user profile being analyzed.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.org/career#Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#matchedSkill">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">matchedSkill</rdfs:label>
+    <rdfs:domain rdf:resource="http://example.org/career#MatchResult"/>
+    <rdfs:range rdf:resource="http://example.org/career#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Observation">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Observation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Skill">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skill</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Represents a technical or domain skill.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/career#Entity">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entity</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
