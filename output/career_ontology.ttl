@@ -1,0 +1,165 @@
+@prefix career: <http://example.org/career#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+career:Candidate a rdfs:Class ;
+    rdfs:label "Candidate"^^xsd:string ;
+    rdfs:comment "Represents the user profile being analyzed."^^xsd:string ;
+    rdfs:subClassOf career:Person .
+
+career:Dataset a rdfs:Class ;
+    rdfs:label "Dataset"^^xsd:string .
+
+career:Entity a rdfs:Class ;
+    rdfs:label "Entity"^^xsd:string .
+
+career:Gap a rdfs:Class ;
+    rdfs:label "Gap"^^xsd:string ;
+    rdfs:comment "A missing skill that contributes to a lower match score."^^xsd:string ;
+    rdfs:subClassOf career:Observation .
+
+career:MarketSnapshot a rdfs:Class ;
+    rdfs:label "Market Snapshot"^^xsd:string ;
+    rdfs:comment "Aggregated market view extracted from job postings."^^xsd:string ;
+    rdfs:subClassOf career:Dataset .
+
+career:MatchResult a rdfs:Class ;
+    rdfs:label "Match Result"^^xsd:string ;
+    rdfs:comment "Outcome of the candidate-to-role matching."^^xsd:string ;
+    rdfs:subClassOf career:Observation .
+
+career:Observation a rdfs:Class ;
+    rdfs:label "Observation"^^xsd:string .
+
+career:Person a rdfs:Class ;
+    rdfs:label "Person"^^xsd:string .
+
+career:Role a rdfs:Class ;
+    rdfs:label "Role"^^xsd:string ;
+    rdfs:comment "Represents a target job role."^^xsd:string ;
+    rdfs:subClassOf career:WorkRole .
+
+career:Skill a rdfs:Class ;
+    rdfs:label "Skill"^^xsd:string ;
+    rdfs:comment "Represents a technical or domain skill."^^xsd:string ;
+    rdfs:subClassOf skos:Concept .
+
+career:SkillCategory a rdfs:Class ;
+    rdfs:label "Skill Category"^^xsd:string ;
+    rdfs:comment "Groups related skills into a conceptual category."^^xsd:string ;
+    rdfs:subClassOf skos:ConceptScheme .
+
+career:WorkRole a rdfs:Class ;
+    rdfs:label "Work Role"^^xsd:string .
+
+career:CANDIDATE a career:Candidate ;
+    rdfs:label "Você"^^xsd:string ;
+    career:hasSkill career:Python ;
+    career:hasWeight 1.0 ;
+    career:nodeType "candidate"^^xsd:string .
+
+career:CareerOntology a owl:Ontology ;
+    rdfs:label "Career Graph Ontology"^^xsd:string ;
+    rdfs:comment "Ontology generated from the Career Graph Engine." .
+
+career:MarketSnapshotCurrent a career:MarketSnapshot ;
+    rdfs:label "Current market snapshot"^^xsd:string ;
+    career:sourceCount 12 ;
+    career:targetRoleName "Data Engineer"^^xsd:string .
+
+career:MatchResultCurrent a career:MatchResult ;
+    rdfs:label "Current match result"^^xsd:string ;
+    career:hasScore 80.0 ;
+    career:matchedSkill career:Python ;
+    career:missingSkill career:gap_SQL ;
+    career:targetRoleName "Data Engineer"^^xsd:string .
+
+career:appearsInJobs a rdf:Property ;
+    rdfs:label "appearsInJobs"^^xsd:string ;
+    rdfs:domain career:Skill ;
+    rdfs:range xsd:integer .
+
+career:hasRole a rdf:Property ;
+    rdfs:label "hasRole"^^xsd:string ;
+    rdfs:domain career:MatchResult ;
+    rdfs:range career:Role .
+
+career:hasScore a rdf:Property ;
+    rdfs:label "hasScore"^^xsd:string ;
+    rdfs:domain career:MatchResult ;
+    rdfs:range xsd:decimal .
+
+career:hasSkill a rdf:Property ;
+    rdfs:label "hasSkill"^^xsd:string ;
+    rdfs:domain career:Candidate ;
+    rdfs:range career:Skill .
+
+career:hasWeight a rdf:Property ;
+    rdfs:label "hasWeight"^^xsd:string ;
+    rdfs:domain career:Entity ;
+    rdfs:range xsd:decimal .
+
+career:matchedSkill a rdf:Property ;
+    rdfs:label "matchedSkill"^^xsd:string ;
+    rdfs:domain career:MatchResult ;
+    rdfs:range career:Skill .
+
+career:missingSkill a rdf:Property ;
+    rdfs:label "missingSkill"^^xsd:string ;
+    rdfs:domain career:Gap ;
+    rdfs:range career:Skill .
+
+career:nodeType a rdf:Property ;
+    rdfs:label "nodeType"^^xsd:string ;
+    rdfs:domain career:Entity ;
+    rdfs:range xsd:string .
+
+career:relatedTo a rdf:Property ;
+    rdfs:label "relatedTo"^^xsd:string ;
+    rdfs:domain career:Entity ;
+    rdfs:range career:Entity .
+
+career:requiresSkill a rdf:Property ;
+    rdfs:label "requiresSkill"^^xsd:string ;
+    rdfs:domain career:Role ;
+    rdfs:range career:Skill .
+
+career:skillFrequency a rdf:Property ;
+    rdfs:label "skillFrequency"^^xsd:string ;
+    rdfs:domain career:Skill ;
+    rdfs:range xsd:decimal .
+
+career:sourceCount a rdf:Property ;
+    rdfs:label "sourceCount"^^xsd:string ;
+    rdfs:domain career:MarketSnapshot ;
+    rdfs:range xsd:integer .
+
+career:targetRoleName a rdf:Property ;
+    rdfs:label "targetRoleName"^^xsd:string ;
+    rdfs:domain career:MatchResult ;
+    rdfs:range xsd:string .
+
+career:Data_Engineer a career:Role ;
+    rdfs:label "Data Engineer"^^xsd:string ;
+    career:nodeType "role"^^xsd:string ;
+    career:requiresSkill career:Python,
+        career:SQL .
+
+career:gap_SQL a career:Gap ;
+    rdfs:label "SQL"^^xsd:string ;
+    career:hasWeight 60.0 ;
+    career:missingSkill career:SQL .
+
+career:SQL a career:Skill ;
+    career:skillFrequency 0.6 .
+
+career:Python a career:Skill ;
+    rdfs:label "Python"^^xsd:string ;
+    career:hasWeight 0.8 ;
+    career:nodeType "candidate_skill"^^xsd:string ;
+    career:requiresSkill career:Data_Engineer ;
+    career:skillFrequency 0.8 .
+
