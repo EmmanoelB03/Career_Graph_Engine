@@ -125,10 +125,22 @@ if run_btn:
             load_data, build_knowledge_graph,
             calculate_match_for_role, generate_pyvis_for_role
         )
+        from ontology import annotate_graph_to_rdf, available as ontology_available
         market_data, _ = load_data()
         G = build_knowledge_graph(market_data, candidate_skills)
         result = calculate_match_for_role(G, market_data, candidate_skills, target_role)
         generate_pyvis_for_role(G, result, candidate_skills)
+        if ontology_available():
+            ontology_path = annotate_graph_to_rdf(
+                G,
+                output_path="output/career_ontology.ttl",
+                market=market,
+                match_result=result,
+                candidate_skills=candidate_skills,
+                target_role=target_role,
+            )
+            if ontology_path:
+                st.caption(f"Ontology saved at {ontology_path}")
         status.update(label=f"✅ Análise de {target_role} concluída", state="complete")
 
     st.success("✅ Análise concluída!")

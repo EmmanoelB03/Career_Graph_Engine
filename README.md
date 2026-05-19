@@ -8,8 +8,19 @@
 
 ### 1. Instale as dependências
 
+Recomendado: crie e ative um ambiente virtual, então instale com `requirements.txt`:
+
 ```bash
-pip install requests networkx pyvis streamlit google-generativeai
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+Ou instale manualmente apenas as bibliotecas necessárias:
+
+```bash
+pip install requests networkx pyvis streamlit google-generativeai rdflib
 ```
 
 ### 2. Interface visual (recomendado)
