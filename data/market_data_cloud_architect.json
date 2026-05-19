@@ -1,0 +1,7419 @@
+{
+  "total_jobs": 688,
+  "target_role": "Cloud Architect",
+  "skill_frequency": {
+    "aws": 313,
+    "azure": 247,
+    "analytics": 103,
+    "google cloud": 102,
+    "typescript": 65,
+    "kubernetes": 43,
+    "machine learning": 39,
+    "terraform": 37,
+    "data engineering": 37,
+    "agile": 26,
+    "elasticsearch": 14,
+    "r": 14,
+    "sql": 13,
+    "python": 13,
+    "linux": 10,
+    "java": 9,
+    "go": 7,
+    "docker": 6,
+    "node.js": 5,
+    "rest": 5,
+    "llm": 4,
+    "data science": 4,
+    "scrum": 4,
+    "spring": 4,
+    "github actions": 4,
+    "c#": 3,
+    "react": 3,
+    "jenkins": 3,
+    "ruby": 2,
+    "kafka": 2,
+    "jira": 2,
+    "angular": 2,
+    "javascript": 2,
+    "deep learning": 2,
+    "power bi": 1,
+    "tableau": 1,
+    "c++": 1,
+    "html": 1,
+    "dbt": 1,
+    "php": 1,
+    "mysql": 1,
+    "postgresql": 1
+  },
+  "role_profiles": {
+    "Cloud Architect": {
+      "aws": 0.271,
+      "azure": 0.213,
+      "analytics": 0.089,
+      "google cloud": 0.088,
+      "typescript": 0.056,
+      "kubernetes": 0.037,
+      "machine learning": 0.034,
+      "terraform": 0.032,
+      "data engineering": 0.032,
+      "agile": 0.022,
+      "elasticsearch": 0.012,
+      "r": 0.012,
+      "sql": 0.011,
+      "python": 0.011,
+      "linux": 0.009
+    }
+  },
+  "jobs": [
+    {
+      "id": "5728712276",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "HTC Global Services Inc",
+      "skills": [
+        "aws",
+        "elasticsearch"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5718226448",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "Motion Recruitment",
+      "skills": [
+        "azure",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5715958385",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "ProKatchers",
+      "skills": [
+        "azure",
+        "sql"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727970216",
+      "title": "Cloud Architect",
+      "original_title": "Oracle Cloud Architect",
+      "company": "Neotecra, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5702084916",
+      "title": "Cloud Architect",
+      "original_title": "TS/SCI Cloud Architect",
+      "company": "Insight Global",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5639062705",
+      "title": "Cloud Architect",
+      "original_title": "Remote Hybrid Cloud Architect",
+      "company": "Insight Global",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724800060",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5689527414",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5348435712",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Astor & Sanders",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5726297230",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Maagsoft Inc",
+      "skills": [
+        "aws",
+        "linux",
+        "python"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5671182631",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Essnova Solutions, Inc.",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727433336",
+      "title": "Cloud Architect",
+      "original_title": "CLOUD ARCHITECT",
+      "company": "Brandon Consulting Associates, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5677653578",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498642766",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5496712337",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498187795",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5496782130",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5497596130",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498488249",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5712418065",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "GD Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5659039468",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Cornerstone Research",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5496284123",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "The Josef Group",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5695353067",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Shyft6",
+      "skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "power bi",
+        "tableau"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5715291284",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "OSC Global",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5713086231",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722232151",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Unknown",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5387086217",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Knowesis",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5681377392",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "DecisionPoint",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5471252283",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Foremost Consulting",
+      "skills": [
+        "analytics",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732141507",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Stone Coast Fund Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5671306098",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5704129689",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Insight Global",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706585383",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Houston, TX",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5729980189",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Fast Switch",
+      "skills": [
+        "aws",
+        "elasticsearch"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5179640315",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Vergence",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5560939703",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect",
+      "company": "Equity Residential",
+      "skills": [
+        "analytics",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5619737410",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect (AWS) - Los Angeles, CA",
+      "company": "Insight Global",
+      "skills": [
+        "aws",
+        "python",
+        "terraform"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5729850045",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Senior Cloud Migration Architect",
+      "company": "Donato Technologies, Inc",
+      "skills": [
+        "aws",
+        "elasticsearch",
+        "kubernetes"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5728585813",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Senior Cloud Migration Architect",
+      "company": "RICEFW Technologies Inc",
+      "skills": [
+        "aws",
+        "elasticsearch"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728919453",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Senior Cloud Migration Architect",
+      "company": "Zenfreed, LLC",
+      "skills": [
+        "aws",
+        "azure",
+        "elasticsearch"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5729874153",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Senior Cloud Migration Architect",
+      "company": "Lansing, MI",
+      "skills": [
+        "aws",
+        "elasticsearch",
+        "kubernetes"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5709802726",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect",
+      "company": "Recutify Inc.",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5733555595",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Architect",
+      "company": "Openkyber",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728587716",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Architect",
+      "company": "American technologies consulting",
+      "skills": [
+        "aws",
+        "elasticsearch",
+        "kubernetes"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5655076937",
+      "title": "Cloud Architect",
+      "original_title": "Enterprise (Cloud Architect)",
+      "company": "Two95 International Inc.",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5723859681",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Infrastructure Architect",
+      "company": "TPI Global Solutions",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5492421206",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Generalist",
+      "company": "Innovative Solutions",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5644342973",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Architect",
+      "company": "Bank of America",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5644341700",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Architect",
+      "company": "Bank of America",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5644341701",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Architect",
+      "company": "Bank of America",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730005949",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect 158636",
+      "company": "KēSTA I.T.",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732133487",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Architect",
+      "company": "Humana",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5484092762",
+      "title": "Cloud Architect",
+      "original_title": "Microsoft Cloud Architect",
+      "company": "Technologent",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729850907",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Architect",
+      "company": "Humana",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727534003",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect",
+      "company": "Capgemini",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727566129",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect",
+      "company": "Capgemini",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727427844",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect",
+      "company": "Capgemini",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727593106",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect",
+      "company": "Capgemini",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727531406",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect",
+      "company": "Capgemini",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5697069613",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "NTT America, Inc.",
+      "skills": [
+        "azure",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5707716052",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "Insight Global",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5635301670",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect",
+      "company": "Cohere Technology Group LLC",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5584118600",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "Reply",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5584338134",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "Reply",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5585111139",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "Reply",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5695625600",
+      "title": "Cloud Architect",
+      "original_title": "DevOps & Cloud Architect",
+      "company": "National Debt Relief LLC",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5589997471",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Architect",
+      "company": "Protective",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5674125428",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "TCS",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706594701",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "Richmond, VA",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5693028314",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Architect",
+      "company": "Private Label Staff",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726428487",
+      "title": "Cloud Architect",
+      "original_title": "Datacenter & Cloud Architect",
+      "company": "Stride Search",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5654406288",
+      "title": "Cloud Architect",
+      "original_title": "Network/Cloud Architect",
+      "company": "Swinerton",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5706612231",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect (AWS)",
+      "company": "Fort Belvoir, VA",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709106612",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect",
+      "company": "247Hire",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4816810763",
+      "title": "Cloud Architect",
+      "original_title": "DevOps/Cloud Architect",
+      "company": "Roberts Recruiting",
+      "skills": [
+        "data engineering"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5105545213",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Architect",
+      "company": "VIKTech",
+      "skills": [
+        "aws",
+        "python",
+        "terraform",
+        "typescript"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5576738970",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect",
+      "company": "Business Tree",
+      "skills": [
+        "azure",
+        "c++",
+        "docker",
+        "google cloud",
+        "java",
+        "python",
+        "ruby"
+      ],
+      "skill_count": 7
+    },
+    {
+      "id": "5664517188",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect- INDIA",
+      "company": "Insight Global",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5717352545",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect - TS/SCI w/Poly",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732400993",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732400874",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732401251",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732402123",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732401500",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732402354",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732401756",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics, Inc.",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728585876",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Senior Cloud Migration Architect - Lansing, MI",
+      "company": "My3Tech",
+      "skills": [
+        "aws",
+        "elasticsearch",
+        "kubernetes"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5684138752",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Architect (IBM Cloud)",
+      "company": "Abacus Technology",
+      "skills": [
+        "terraform"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5684138751",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Architect (Oracle Cloud)",
+      "company": "Abacus Technology",
+      "skills": [
+        "terraform"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5684138749",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Architect (Google Cloud)",
+      "company": "Abacus Technology",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723686561",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Optimization Architect",
+      "company": "Insight Global",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732080640",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5731882083",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5731906853",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5677743363",
+      "title": "Cloud Architect",
+      "original_title": "VMware Cloud Architect / Consultant",
+      "company": "Globalchannelmanagement",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5730855412",
+      "title": "Cloud Architect",
+      "original_title": "Senior Azure Cloud Architect",
+      "company": "Argyllinfotech",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730854369",
+      "title": "Cloud Architect",
+      "original_title": "Lead Developer/Cloud Architect",
+      "company": "Brilliant Infotech Inc",
+      "skills": [
+        "aws",
+        "node.js",
+        "typescript"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5653235133",
+      "title": "Cloud Architect",
+      "original_title": "Senior AWS Cloud Architect",
+      "company": "CG Infinity",
+      "skills": [
+        "aws",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5650449736",
+      "title": "Cloud Architect",
+      "original_title": "IT Enterprise Cloud Architect",
+      "company": "Saratech",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716659105",
+      "title": "Cloud Architect",
+      "original_title": "VMware Cloud Architect / Consultant",
+      "company": "Velvet Ledger Workforce",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5708978531",
+      "title": "Cloud Architect",
+      "original_title": "Amazon Certified Cloud Solutions Architect",
+      "company": "The AES Group",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728745270",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Migration Architect",
+      "company": "A-Line Staffing Solutions LLC",
+      "skills": [
+        "aws",
+        "elasticsearch"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725589272",
+      "title": "Cloud Architect",
+      "original_title": "Senior AWS Cloud Architect",
+      "company": "CGI",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726605244",
+      "title": "Cloud Architect",
+      "original_title": "azure cloud architect - 1270594",
+      "company": "Talent Nova",
+      "skills": [
+        "azure",
+        "c#"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723581866",
+      "title": "Cloud Architect",
+      "original_title": "Senior AWS Cloud Architect",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "analytics",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5729924679",
+      "title": "Cloud Architect",
+      "original_title": "Senior AWS Cloud Architect",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "analytics",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722675758",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect / Developer SME",
+      "company": "GD Information Technology",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5713107992",
+      "title": "Cloud Architect",
+      "original_title": "Infrastructure Cloud Architect (AWS)",
+      "company": "Insight Global",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5629794778",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect (291)",
+      "company": "WSP",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5717570132",
+      "title": "Cloud Architect",
+      "original_title": "IT Enterprise Cloud Architect",
+      "company": "Asbury Automotive Group",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5422580848",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect (Container/OpenShift)",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5681376783",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Architect (AWS)",
+      "company": "Abacus Technology",
+      "skills": [
+        "aws",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5731921291",
+      "title": "Cloud Architect",
+      "original_title": "Lead AWS Cloud Architect",
+      "company": "Insight Global",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5617691794",
+      "title": "Cloud Architect",
+      "original_title": "Senior AI Cloud Architect",
+      "company": "Zhone Technologies",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5617537063",
+      "title": "Cloud Architect",
+      "original_title": "Senior AI Cloud Architect",
+      "company": "Zhone Technologies",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5684138750",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Architect (Azure)",
+      "company": "Abacus Technology",
+      "skills": [
+        "azure",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5555349386",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect Level 2",
+      "company": "Jasint",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724797343",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect Lead II",
+      "company": "Robert Half",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725605825",
+      "title": "Cloud Architect",
+      "original_title": "AI & Data Cloud Architect",
+      "company": "Guidehouse",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5629615885",
+      "title": "Cloud Architect",
+      "original_title": "Experienced Cloud Architect (292)",
+      "company": "WSP",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722401815",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect / Developer SME",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "azure",
+        "r"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664247576",
+      "title": "Cloud Architect",
+      "original_title": "Snowflake / Databricks Cloud Architect",
+      "company": "US Tech Solutions",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732266046",
+      "title": "Cloud Architect",
+      "original_title": "Senior AWS Cloud Architect",
+      "company": "CG Infinity",
+      "skills": [
+        "aws",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724776105",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724787112",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5707165129",
+      "title": "Cloud Architect",
+      "original_title": "Sr Azure Cloud Architect",
+      "company": "Cayuse Holdings",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724697854",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724691369",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724697865",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724690500",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724999305",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724794403",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Architect - Kubernetes",
+      "company": "Humana",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714890439",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect Lead II",
+      "company": "Apidel Technologies",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5690238232",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5690238239",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5689412839",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5690253555",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5690253536",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5689267537",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5689267621",
+      "title": "Cloud Architect",
+      "original_title": "Principal ProServe Cloud Architect",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724804446",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect (Paas SaaS)",
+      "company": "NTT Data Americas, Inc.",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5677808525",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Architect – AWS",
+      "company": "Executive Recruiting",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706626656",
+      "title": "Cloud Architect",
+      "original_title": "Oracle WMS Cloud Architect",
+      "company": "Augusta, GA",
+      "skills": [
+        "sql"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731942592",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect - INTL Mexico",
+      "company": "Insight Global",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5439810801",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Secret Clearance Required",
+      "company": "NANA Regional Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5177722599",
+      "title": "Cloud Architect",
+      "original_title": "Consulting Cloud Architect (Remote, US)",
+      "company": "Fortinet",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716604898",
+      "title": "Cloud Architect",
+      "original_title": "Principal Data Cloud Architect - Apps",
+      "company": "Snowflake",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5673736181",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect (Top Secret cleared)",
+      "company": "ICF",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5677906939",
+      "title": "Cloud Architect",
+      "original_title": "Hands‑on VMware Cloud Architect / Consultant",
+      "company": "Talent Search PRO",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5706605746",
+      "title": "Cloud Architect",
+      "original_title": "Lansing, MI - CEPI - Cloud Architect",
+      "company": "Lansing, MI",
+      "skills": [
+        "azure",
+        "html",
+        "rest",
+        "sql"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5655986175",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Security",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728712434",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Migration Architect (AWS) - Lansing, MI",
+      "company": "Digital Technology Solutions",
+      "skills": [
+        "aws",
+        "docker",
+        "elasticsearch",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5729816412",
+      "title": "Cloud Architect",
+      "original_title": "Senior Azure Cloud Architect / Engineer / Administrator",
+      "company": "Resource Management Concepts, Inc.",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5702315406",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect Level 3 (TS/SCI)",
+      "company": "Koniag Government Services",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5701945189",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect Level 3 (TS/SCI)",
+      "company": "Koniag Government Services",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5655303117",
+      "title": "Cloud Architect",
+      "original_title": "Senior Data Cloud Architect - SI Partners",
+      "company": "Snowflake",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5636882199",
+      "title": "Cloud Architect",
+      "original_title": "Principal Data Cloud Architect - SI Partners",
+      "company": "Snowflake",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5652822271",
+      "title": "Cloud Architect",
+      "original_title": "Principal Cloud Architect – AWS Migration & Modernization",
+      "company": "Executive Recruiting",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5327474910",
+      "title": "Cloud Architect",
+      "original_title": "Senior Data Storage Administrator - Cloud Architect",
+      "company": "Ehs Technologies Corporation",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5302546794",
+      "title": "Cloud Architect",
+      "original_title": "Chief Cloud Architect and Lead Infrastructure SME",
+      "company": "Plateau Software",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5643597344",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect – AI Enablement VP",
+      "company": "Barclays",
+      "skills": [
+        "azure",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5730090980",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect - Technical Architect- Springfield",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5494043376",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect - Technical Architect- Springfield",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732254335",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Architect - Technical Architect- Springfield",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723577201",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Architect GCP & Kubernetes GKE",
+      "company": "ManpowerGroup",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732251156",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect - Senior Cloud Engineer - Level 3",
+      "company": "CACI",
+      "skills": [
+        "azure",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5704026567",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect - Senior Cloud Engineer - Level 3",
+      "company": "CACI International",
+      "skills": [
+        "azure",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722839342",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect Consultant - (Cloud, Cloud DevOps, Hybrid Computing)",
+      "company": "Akina",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5653272922",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Cloud & AI",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728585839",
+      "title": "Cloud Architect",
+      "original_title": "Lansing, MI - IT - Agency Services - MB - N/A - Cloud Architect - Senior Cloud Migration Architect",
+      "company": "RICEFW Technologies Inc",
+      "skills": [
+        "aws",
+        "elasticsearch"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5730921350",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - Oracle Cloud Infrastructure (OCI) certification - VLAN configuration",
+      "company": "VTekis Consulting LLP",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5700673213",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Level 3",
+      "company": "CACI International",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730856972",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Architect (Hybrid role in Lansing, MI)",
+      "company": "SCS Tech",
+      "skills": [
+        "aws",
+        "ruby"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4816841902",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Architect TS/SCI CI poly",
+      "company": "Tenica",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732321368",
+      "title": "Cloud Architect",
+      "original_title": "CDAO Advana - AWS/Microsoft Enterprise Cloud Architect",
+      "company": "GD Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5719063389",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect - TS/SCI w/Poly",
+      "company": "GD Information Technology",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5696539512",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect - TS/SCI w/Poly",
+      "company": "GD Information Technology",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732067577",
+      "title": "Cloud Architect",
+      "original_title": "CDAO Advana - AWS/Microsoft Enterprise Cloud Architect",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733554317",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Infrastructure Architect",
+      "company": "SolutionIT",
+      "skills": [
+        "aws",
+        "azure",
+        "go"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5572166506",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "RSEKURE",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728586719",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Migration Architect",
+      "company": "Codetech Inc",
+      "skills": [
+        "aws",
+        "elasticsearch",
+        "kubernetes"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5733555621",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Infrastructure Architect",
+      "company": "Openkyber",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5595667654",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "J5 Consulting",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730080189",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Dezign Concepts LLC",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5653272923",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Cloud & AI Infrastructure",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5657165216",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Cloud & AI Infrastructure",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726296641",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect || Onsite in Louisville, KY (relocation yes)",
+      "company": "DMS Vision Inc",
+      "skills": [
+        "azure",
+        "docker",
+        "kafka",
+        "terraform"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5715145563",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Architect",
+      "company": "Hunter Strategy",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5652519041",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect",
+      "company": "JCD Staffing",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "machine learning"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5663064890",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5678948233",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5678855315",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679055919",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5678937663",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5661775854",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5662199219",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679011214",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect",
+      "company": "Contact Government Services",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729083934",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Infrastructure Architect",
+      "company": "GliaCell Technologies",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723738216",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Architect",
+      "company": "GD Information Technology",
+      "skills": [
+        "data engineering",
+        "data science"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5730252534",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Infrastructure Architect",
+      "company": "First Century Bank",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731923158",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Application Architect",
+      "company": "NTT Data Americas, Inc.",
+      "skills": [
+        "azure",
+        "kubernetes",
+        "python",
+        "react"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5721419869",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "FormativGroup",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5706860985",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Equifax",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5695203766",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Software Architect",
+      "company": "Wilks Brothers",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723737190",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Architect",
+      "company": "Terumo Medical Corporation",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5580685578",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer Architect",
+      "company": "Koniag Government Services",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5499714195",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Armison Tech",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730260208",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5505965012",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer Architect",
+      "company": "Koniag Government Services",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4883576865",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Architect",
+      "company": "Onix Networking Corp",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731994990",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732162977",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732004026",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5731951894",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5731996194",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732160787",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect",
+      "company": "Arrow Electronics",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727629458",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Freedom Technology Solutions Group",
+      "skills": [
+        "analytics",
+        "data engineering",
+        "data science",
+        "machine learning"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5728749660",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Bespoke Technologies",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731919146",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Architect",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "agile",
+        "data engineering",
+        "data science"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5723573333",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Architect",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "agile",
+        "data engineering",
+        "data science"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5681920061",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "GD Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727563414",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Infrastructure Architect",
+      "company": "TEKsystems",
+      "skills": [
+        "llm",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5731130156",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Novel Applications of Vital Information",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730060774",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Ardent Principles",
+      "skills": [
+        "analytics",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732334823",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Amynta Agency",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5681742499",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5664717695",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Domain Architect",
+      "company": "Halliburton",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5665196119",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Domain Architect",
+      "company": "Halliburton",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732205852",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Dezign Concepts",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706606210",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect",
+      "company": "Atlanta, GA",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5709804648",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect",
+      "company": "Reyes Holdings",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709154375",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect",
+      "company": "Reyes Holdings LLC",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5701000190",
+      "title": "Cloud Architect",
+      "original_title": "Asset & Wealth Management-Cloud Architects-Vice President-Dallas",
+      "company": "Goldman Sachs",
+      "skills": [
+        "data engineering"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330736500",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Architect - 24-840- TS/SCI FSP in VA",
+      "company": "Cyrten",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709873816",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5657165222",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Cloud & AI Data Platform",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "analytics",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5642871708",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Infrastructure Architect",
+      "company": "CG Infinity",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726096700",
+      "title": "Cloud Architect",
+      "original_title": "Principal Cloud Solutions Architect",
+      "company": "isolved",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5693879703",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Solutions Architect",
+      "company": "Apogee Global RMS",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728236695",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Infrastructure Architect",
+      "company": "First Century Bank",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5437115876",
+      "title": "Cloud Architect",
+      "original_title": "Enterprise Cloud Solutions Architect",
+      "company": "Systems Integration, Inc.",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5700695876",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Engineer / Architect",
+      "company": "uShip",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5694983814",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Azure Architect",
+      "company": "JCS Solutions LLC",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730839070",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Security Architect",
+      "company": "GAMA-1 Technologies",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733551475",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Solutions Architect",
+      "company": "Cerebra Consulting Inc",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733555682",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Connectivity Architect",
+      "company": "Openkyber",
+      "skills": [
+        "scrum"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733555699",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Connectivity Architect",
+      "company": "Openkyber",
+      "skills": [
+        "python",
+        "rest"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5509904574",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect - SME",
+      "company": "Pendulum LLC",
+      "skills": [
+        "aws",
+        "jira",
+        "terraform"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5722196232",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722208199",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723849601",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722208235",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645600704",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Infrastructure Architect",
+      "company": "CG Infinity",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707865771",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Infrastructure Architect",
+      "company": "Booz Allen Hamilton",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709176167",
+      "title": "Cloud Architect",
+      "original_title": "Principal Cloud Solutions Architect",
+      "company": "isolved",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5694287611",
+      "title": "Cloud Architect",
+      "original_title": "Enterprise Cloud Security Architect",
+      "company": "Booz Allen Hamilton",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5732892199",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Solutions Architect",
+      "company": "GD Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5222507090",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Solutions Architect",
+      "company": "VIKTech",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729872416",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Migration Architect",
+      "company": "Lansing, MI",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725522796",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Solutions Architect",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707968155",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Application Architect",
+      "company": "INVID",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5222365807",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cloud Software Architect",
+      "company": "Roberts Recruiting",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5710066414",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect, VP",
+      "company": "State Street",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706686632",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Solution Architect",
+      "company": "Capgemini",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727967694",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Enterprise Architect",
+      "company": "eStaffLLC",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732836206",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Data Architect",
+      "company": "GD Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5721215706",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Prisma",
+      "company": "System One",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5638174923",
+      "title": "Cloud Architect",
+      "original_title": "Principal Cloud Services Architect",
+      "company": "Axway",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732816204",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Prisma",
+      "company": "System One",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5706601576",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Security Architect",
+      "company": "Atlanta, GA",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732132639",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Security Architect",
+      "company": "GAMA-1 Technologies",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722761940",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Infrastructure Architect",
+      "company": "Hyundai Capital",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722584152",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Infrastructure Architect",
+      "company": "Hyundai Capital",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "3244309933",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Infrastructure",
+      "company": "Forhyre",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "3578277807",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Infrastructure",
+      "company": "Forhyre",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725522799",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Data Architect",
+      "company": "General Dynamics Information Technology",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5714333394",
+      "title": "Cloud Architect",
+      "original_title": "Associate Cloud Solutions Architect",
+      "company": "Electrosonic",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727705293",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Data Architect",
+      "company": "The Boeing Company",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5672159284",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect (337)",
+      "company": "WSP",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5554256389",
+      "title": "Cloud Architect",
+      "original_title": "Principal - Cloud Data Architect",
+      "company": "London Stock Exchange Group",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5383437200",
+      "title": "Cloud Architect",
+      "original_title": "Principal Cloud Infrastructure Architect",
+      "company": "Aera Technology",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5717413240",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect Or Cloud Platform Developer",
+      "company": "Atlanta, GA",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727679666",
+      "title": "Cloud Architect",
+      "original_title": "AWS Resident Architect - Senior Cloud Solutions Architect",
+      "company": "Strategic Communications",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727966716",
+      "title": "Cloud Architect",
+      "original_title": "AWS Resident Architect - Senior Cloud Solutions Architect",
+      "company": "Strategic Communications",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5696377717",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Solution Architect - Cloud & AI Data Platform",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "analytics",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5730853969",
+      "title": "Cloud Architect",
+      "original_title": "Azure Cloud Architect – AI/ML & Data Services - Niles, IL - Contract Opportunity",
+      "company": "Zodiac Solutions",
+      "skills": [
+        "azure",
+        "data engineering",
+        "machine learning"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5729853501",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Migration Architect - Hybrid",
+      "company": "Smart IMS Inc",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5719929121",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect / FedRAMP Advisor",
+      "company": "Apogee Global RMS",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5719929120",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect / FedRAMP Advisor",
+      "company": "Apogee Global RMS",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5719929109",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect / FedRAMP Advisor",
+      "company": "Apogee Global RMS",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5719929112",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect / FedRAMP Advisor",
+      "company": "Apogee Global RMS",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728586151",
+      "title": "Cloud Architect",
+      "original_title": "Oracle Cloud Security Architect (HCM)",
+      "company": "Akaasa Technologies",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5547683456",
+      "title": "Cloud Architect",
+      "original_title": "Senior AWS Cloud Systems Architect",
+      "company": "Ignite IT",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5705660428",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Solution Architect - Cloud & AI - Federal - CTJ - Secret",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5645613242",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645613227",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664398052",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664757792",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664757790",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664757799",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664762746",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664611992",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664387683",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664613897",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664390034",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5733081297",
+      "title": "Cloud Architect",
+      "original_title": "Data Center Architect",
+      "company": "Govcio LLC",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4804435435",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect (TS/SCI)",
+      "company": "Beyond SOF",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730096522",
+      "title": "Cloud Architect",
+      "original_title": "16118 - Senior Cloud Migration Architect",
+      "company": "Smith Johnson Tech",
+      "skills": [
+        "aws",
+        "azure",
+        "kubernetes",
+        "linux"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5649091169",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Level 2",
+      "company": "CACI International",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5701184083",
+      "title": "Cloud Architect",
+      "original_title": "CNO HPC Cloud Infrastructure Architect",
+      "company": "Bitwise",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5670355179",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Data Security",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730827206",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solution Architect - Level 3",
+      "company": "CACI International",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5710071592",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Infrastructure Architect - Level 2",
+      "company": "Staffed4U",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5512047824",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Engineer/Architect (AZURE)",
+      "company": "Global Enterprise Services, Llc",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5505698535",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Engineer/Architect (AZURE)",
+      "company": "SMS Data Products Group",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5701280984",
+      "title": "Cloud Architect",
+      "original_title": "BIBA Practice - Cloud Data Architect",
+      "company": "Hexaware",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5601309408",
+      "title": "Cloud Architect",
+      "original_title": "Senior Backend & Cloud Solutions Architect",
+      "company": "The Giant Bullseye",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729922434",
+      "title": "Cloud Architect",
+      "original_title": "FinOps Private Cloud Infrastructure Architect",
+      "company": "Insight Global",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5595584977",
+      "title": "Cloud Architect",
+      "original_title": "Senior Azure Cloud & Network Architect",
+      "company": "Fortegra",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5692750891",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Solutions Architect – AWS GovCloud",
+      "company": "Private Label Staff",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4816759378",
+      "title": "Cloud Architect",
+      "original_title": "Senior DevOps Cloud Engineer/Architect",
+      "company": "Incpg",
+      "skills": [
+        "azure",
+        "google cloud",
+        "java",
+        "react",
+        "spring"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5727801327",
+      "title": "Cloud Architect",
+      "original_title": "Azure Development & Cloud Solution Architect",
+      "company": "RibbitZ",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5715292080",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Infrastructure Architect 2 - (HPC, Cloud, CI/CD)",
+      "company": "Akina",
+      "skills": [
+        "go",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5719918409",
+      "title": "Cloud Architect",
+      "original_title": "Senior IT Architect / AI \\u0026 Cloud Solutions Architect",
+      "company": "Callao, VA",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5688001067",
+      "title": "Cloud Architect",
+      "original_title": "Cloud and Data Architect",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "aws",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727434379",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect / GCP Security Engineer",
+      "company": "DRC Systems",
+      "skills": [
+        "google cloud",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678862482",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Architect Location: 100% Remote",
+      "company": "ESRhealthcare and EXEC STAFF RECRUITERS",
+      "skills": [
+        "data engineering"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709874092",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709869098",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709865323",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709890267",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709890285",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709890288",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709870582",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709858822",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709817198",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709817203",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709804133",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709798730",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709804136",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709797525",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709914072",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709875582",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5710050791",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709872504",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709880784",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709925773",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709925760",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709930790",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709875159",
+      "title": "Cloud Architect",
+      "original_title": "Marketing Cloud AI Architect - Specialist Master",
+      "company": "Deloitte",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5626171101",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect- TS/SCI POLY",
+      "company": "Staffed4U",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4959767624",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Platform Architect - Irving, TX",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5239925478",
+      "title": "Cloud Architect",
+      "original_title": "SAP Business Data Cloud – Lead Architect",
+      "company": "The Hackett Group",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730046619",
+      "title": "Cloud Architect",
+      "original_title": "Sr. AWS Cloud/Software Architect III",
+      "company": "System One",
+      "skills": [
+        "aws",
+        "java",
+        "rest",
+        "spring"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5732819008",
+      "title": "Cloud Architect",
+      "original_title": "Sr. AWS Cloud/Software Architect III",
+      "company": "System One",
+      "skills": [
+        "aws",
+        "java",
+        "rest",
+        "spring"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5726750042",
+      "title": "Cloud Architect",
+      "original_title": "Cloud System Architect 2-FFNN-8846",
+      "company": "Onyx Point",
+      "skills": [
+        "aws",
+        "azure",
+        "kubernetes",
+        "terraform",
+        "typescript"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5692659985",
+      "title": "Cloud Architect",
+      "original_title": "AWS Cloud Solutions Architect (GovCloud) – Remote",
+      "company": "Private Label Staff",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706587973",
+      "title": "Cloud Architect",
+      "original_title": "Technology Architect | Data On Cloud - Platform | AWS Architect",
+      "company": "Irvine, CA",
+      "skills": [
+        "aws",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728584119",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Migration Architect (Local Candidates Only)",
+      "company": "HireITPeople",
+      "skills": [
+        "aws",
+        "docker",
+        "elasticsearch",
+        "kubernetes",
+        "terraform"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5730855331",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Data Architect IAM Data Modernization",
+      "company": "Hirekeyz Inc",
+      "skills": [
+        "analytics",
+        "google cloud",
+        "sql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5720992351",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Data Architect – IAM Data Modernization",
+      "company": "Recutify Inc.",
+      "skills": [
+        "analytics",
+        "google cloud",
+        "sql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5728586255",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Migration Architect - Only Locals to Michigan",
+      "company": "IntelliX Software, Inc",
+      "skills": [
+        "aws",
+        "elasticsearch"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5697062356",
+      "title": "Cloud Architect",
+      "original_title": "Infrastructure Architect - Cloud Services",
+      "company": "Cognizant",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5405784926",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Data Solutions Architect",
+      "company": "Boehringer Ingelheim",
+      "skills": [
+        "analytics",
+        "dbt"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5718901024",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect — Cloud and Containerization",
+      "company": "Unknown",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5593123682",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Engineer/Architect (SME Multi-Cloud; AZURE; AWS) with TS/SCI",
+      "company": "Maania Consultancy Services",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4811310471",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Systems Architect (PUFF-CSA3-10.080123)",
+      "company": "Capital Solutions Group",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5606137332",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Google Cloud Platform Architect - Technical Lead",
+      "company": "CoSourcing Partners",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716344388",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Cloud Solution Architect - CTJ - TS/SCI",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "analytics",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723566294",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723566277",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723566299",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723534281",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5703072239",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Architect - Federal / DoD Programs - Remote",
+      "company": "UnitedHealth Group",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722261755",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722264009",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722261752",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722569558",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723648242",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722337032",
+      "title": "Cloud Architect",
+      "original_title": "Delivery Consultant - Cloud Infrastructure Architect, WWPS ProServe",
+      "company": "Amazon",
+      "skills": [
+        "aws",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5697688211",
+      "title": "Cloud Architect",
+      "original_title": "Specialist Solution Architect - ZT Cloud",
+      "company": "Zscaler",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5689154081",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Security Engineer",
+      "company": "Axelon Services Corporation",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5654974873",
+      "title": "Cloud Architect",
+      "original_title": "Architect II - Cloud Infrastructure Services",
+      "company": "Axelon Services Corporation",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5645377301",
+      "title": "Cloud Architect",
+      "original_title": "Lead Data Architect – Cloud & Analytics",
+      "company": "Continuus Technologies LLC",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5689501968",
+      "title": "Cloud Architect",
+      "original_title": "Healthcare Technology Consulting - Associate Director - Cloud Solution Architect",
+      "company": "Guidehouse",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5706593120",
+      "title": "Cloud Architect",
+      "original_title": "Architect / Cloud Engineer (.NET / C#)",
+      "company": "Stamford, CT",
+      "skills": [
+        "c#",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727797900",
+      "title": "Cloud Architect",
+      "original_title": "Distributed Cloud Network Solution Architect",
+      "company": "Apple",
+      "skills": [
+        "aws",
+        "google cloud"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645488565",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645488552",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645488572",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645488579",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645488567",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645488561",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645615276",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645615275",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645610096",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645613341",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645616452",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645529486",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645502818",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645502372",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645502349",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645502116",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645502374",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645502376",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645502342",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645529488",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645615818",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645615287",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645615816",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645776062",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645618119",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645601530",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645774672",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645774673",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645774671",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645615799",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645617725",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645612711",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645613230",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645612804",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645612274",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645612485",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645614714",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645612182",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5645617810",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Executive Delivery Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664208909",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664208919",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664207958",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664288325",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664206515",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664206446",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664208924",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664207963",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664288346",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664373232",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664611828",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664387602",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664394125",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664394109",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664394096",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664391722",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664391668",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664394498",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664354061",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664392985",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664392953",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664395057",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664384081",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664382465",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664382211",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5664383138",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud (AGBG) Sales Architect",
+      "company": "Accenture",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5671991906",
+      "title": "Cloud Architect",
+      "original_title": "Cloud DevOPS & Automation Architect (339)",
+      "company": "WSP",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4914076749",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineering Network Architect - Azure",
+      "company": "Sutter Health",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5714626212",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Platform Engineer",
+      "company": "Motion Recruitment",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5721056377",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect, Google Cloud Universal Ledger",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5718300414",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect - Cloud Data Warehousing (GCP)",
+      "company": "Mattel",
+      "skills": [
+        "analytics",
+        "google cloud"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5117031139",
+      "title": "Cloud Architect",
+      "original_title": "LAN/WAN Engineering Subject Matter Expert IV – Cloud Solution Architect",
+      "company": "Invictus International Consulting, LLC",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5717849005",
+      "title": "Cloud Architect",
+      "original_title": "ROLL TENDER",
+      "company": "Journal Register Offset",
+      "skills": [
+        "agile",
+        "angular",
+        "c#",
+        "java",
+        "javascript",
+        "jira",
+        "node.js",
+        "php",
+        "python",
+        "sql"
+      ],
+      "skill_count": 10
+    },
+    {
+      "id": "5654318313",
+      "title": "Cloud Architect",
+      "original_title": "Principal Infrastructure Architect - Cloud & SaaS Platforms",
+      "company": "Insight Global",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5716683459",
+      "title": "Cloud Architect",
+      "original_title": "Specialist Solutions Architect - Cloud Infrastructure & Platform",
+      "company": "Databricks",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5730175448",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Security Architect (Zero Trust | DevSecOps | AWS/Azure/GCP)",
+      "company": "Lifescale Analytics",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5568773837",
+      "title": "Cloud Architect",
+      "original_title": "DevOps Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5644483365",
+      "title": "Cloud Architect",
+      "original_title": "Integration Test Lead",
+      "company": "Insight Global",
+      "skills": [
+        "aws",
+        "google cloud",
+        "kafka"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5645526885",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect - Google Cloud Platform",
+      "company": "VAST Data",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5702326613",
+      "title": "Cloud Architect",
+      "original_title": "Solution Architect",
+      "company": "Virtusa",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486427",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486432",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486437",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486451",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486442",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486434",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486417",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486426",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486454",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Security Architecture",
+      "company": "Synchrony Financial",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733555630",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Support Associate",
+      "company": "Openkyber",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728940014",
+      "title": "Cloud Architect",
+      "original_title": "Staff Security Architect (Cloud Security & Incident Response)",
+      "company": "PCCA USA, PCCA Canada",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5630113117",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Lead Developer W-2 ONLY",
+      "company": "United Global Technologies",
+      "skills": [
+        "agile",
+        "aws",
+        "azure",
+        "java",
+        "javascript"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5706591431",
+      "title": "Cloud Architect",
+      "original_title": "Kubernetes/GCP Engineer",
+      "company": "Phoenix, AZ",
+      "skills": [
+        "github actions",
+        "google cloud",
+        "java",
+        "kubernetes",
+        "linux",
+        "machine learning",
+        "node.js",
+        "python",
+        "terraform"
+      ],
+      "skill_count": 9
+    },
+    {
+      "id": "5663516319",
+      "title": "Cloud Architect",
+      "original_title": "Data Architect I",
+      "company": "Axelon Services Corporation",
+      "skills": [
+        "data engineering"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724999825",
+      "title": "Cloud Architect",
+      "original_title": "Data Architect (Hybrid - Cloud and On-Prem)",
+      "company": "Guidehouse",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5647377644",
+      "title": "Cloud Architect",
+      "original_title": "AI Engineer / Architect-IFS Cloud",
+      "company": "Rockwell Automation",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5161545303",
+      "title": "Cloud Architect",
+      "original_title": "Lead Cybersecurity Architect - AWS Cloud",
+      "company": "JPMorgan Chase & Co.",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5720992592",
+      "title": "Cloud Architect",
+      "original_title": "Salesforce Technical Architect (Experience Cloud)",
+      "company": "Cognizant",
+      "skills": [
+        "angular"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5692771263",
+      "title": "Cloud Architect",
+      "original_title": "Specialist Solution Architect - ZT Cloud",
+      "company": "Zscaler",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5655815753",
+      "title": "Cloud Architect",
+      "original_title": "Senior IT System Administrator - Corporate IT (Kansas City)",
+      "company": "BURNS & MCDONNELL",
+      "skills": [
+        "azure",
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5705315744",
+      "title": "Cloud Architect",
+      "original_title": "GCP Devops Engineer with Kubernetes",
+      "company": "Trinite Consulting Group",
+      "skills": [
+        "github actions",
+        "google cloud",
+        "kubernetes",
+        "linux",
+        "node.js",
+        "python",
+        "terraform"
+      ],
+      "skill_count": 7
+    },
+    {
+      "id": "5701871889",
+      "title": "Cloud Architect",
+      "original_title": "GCP Kubernetes Engineer",
+      "company": "Trinite Consulting Group",
+      "skills": [
+        "github actions",
+        "google cloud",
+        "kubernetes",
+        "linux",
+        "node.js",
+        "python",
+        "terraform"
+      ],
+      "skill_count": 7
+    },
+    {
+      "id": "5729503349",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer",
+      "company": "Invictus International Consulting, LLC",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732161317",
+      "title": "Cloud Architect",
+      "original_title": "Cloud ISSE - TS/SCI CI Poly",
+      "company": "TENICA and Associates",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727714995",
+      "title": "Cloud Architect",
+      "original_title": "Engineer, Cloud Support",
+      "company": "Medical Information Technology",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5414713152",
+      "title": "Cloud Architect",
+      "original_title": "Senior Subject Matter Expert",
+      "company": "SiloSmashers",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709504973",
+      "title": "Cloud Architect",
+      "original_title": "Devops Engineer with Kubernetes",
+      "company": "Trinite Consulting Group",
+      "skills": [
+        "docker",
+        "github actions",
+        "google cloud",
+        "kubernetes",
+        "terraform"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5726295375",
+      "title": "Cloud Architect",
+      "original_title": ". NET Architect with Cloud Native, AWS, and Modernization",
+      "company": "VDart Inc",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733555902",
+      "title": "Cloud Architect",
+      "original_title": "Junior Cloud Engineer",
+      "company": "Openkyber",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725048744",
+      "title": "Cloud Architect",
+      "original_title": "Senior Azure Cloud Engineer",
+      "company": "Cantor Fitzgerald",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725448388",
+      "title": "Cloud Architect",
+      "original_title": "API Threat Intelligence Analyst",
+      "company": "Openkyber",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733555691",
+      "title": "Cloud Architect",
+      "original_title": "Senior GCP IAM Engineer",
+      "company": "Openkyber",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731942577",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5685817945",
+      "title": "Cloud Architect",
+      "original_title": "Trusted Internet Connections 3.0 Cloud Network Security Architect",
+      "company": "TOMORROW HIRE",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "3994173892",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Engineer",
+      "company": "PTP",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731908708",
+      "title": "Cloud Architect",
+      "original_title": "Mid-Level Systems Engineer",
+      "company": "TRIAEM, LLC",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5506426508",
+      "title": "Cloud Architect",
+      "original_title": "Mid-Level Systems Engineer",
+      "company": "TRIAEM",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5472102754",
+      "title": "Cloud Architect",
+      "original_title": "A-10-27-Network Engineer - Consultant 8502",
+      "company": "FHR",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5732923441",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer III",
+      "company": "WoodmenLIfe",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706594497",
+      "title": "Cloud Architect",
+      "original_title": "Azure SQL Server DBA (with Banking Domain)",
+      "company": "Memphis, TN",
+      "skills": [
+        "azure",
+        "sql"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727724668",
+      "title": "Cloud Architect",
+      "original_title": "Business Analyst- Expert",
+      "company": "247Hire",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733555738",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Reliability Engineer",
+      "company": "Openkyber",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729852971",
+      "title": "Cloud Architect",
+      "original_title": "DevOps Engineer",
+      "company": "Openkyber",
+      "skills": [
+        "google cloud",
+        "jenkins",
+        "linux",
+        "sql",
+        "terraform"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5488390833",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Director, Commercial Delivery - Managed Services",
+      "company": "Resolve Tech Solutions",
+      "skills": [
+        "linux"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706605190",
+      "title": "Cloud Architect",
+      "original_title": "Databricks Administrator / Azure SQL Server DBA",
+      "company": "Memphis, TN",
+      "skills": [
+        "azure",
+        "sql"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5702070556",
+      "title": "Cloud Architect",
+      "original_title": "Lab Architect, Google Cloud Learning Services",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5702052900",
+      "title": "Cloud Architect",
+      "original_title": "Lab Architect, Google Cloud Learning Services",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5687997122",
+      "title": "Cloud Architect",
+      "original_title": "Remote Sr. Salesforce Architect - Health Cloud",
+      "company": "Insight Global",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5720989251",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect, Google Cloud Universal Ledger",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5721074311",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect, Google Cloud Universal Ledger",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730174202",
+      "title": "Cloud Architect",
+      "original_title": "Senior Solutions Architect, AI Cloud Services",
+      "company": "NVIDIA",
+      "skills": [
+        "analytics",
+        "deep learning",
+        "machine learning"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5526350653",
+      "title": "Cloud Architect",
+      "original_title": "Senior Solutions Architect, NVIDIA Cloud Partners",
+      "company": "NVIDIA",
+      "skills": [
+        "deep learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5636105419",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Manager",
+      "company": "Ignite IT",
+      "skills": [
+        "agile",
+        "aws",
+        "python"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5679730222",
+      "title": "Cloud Architect",
+      "original_title": "Senior Security Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618304656",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321726",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321711",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321724",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321718",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618212100",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618212109",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618262737",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618262761",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618076508",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5679820579",
+      "title": "Cloud Architect",
+      "original_title": "Lead Data Architect",
+      "company": "ClinDCast LLC",
+      "skills": [
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5165130066",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - Springfield, MO",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "kubernetes",
+        "terraform"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5070014032",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Engineer - Springfield",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "kubernetes",
+        "terraform"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5459414768",
+      "title": "Cloud Architect",
+      "original_title": "Sr DevOps Engineer| USA",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "kubernetes",
+        "terraform"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5492765406",
+      "title": "Cloud Architect",
+      "original_title": "GCP Lead for Cloud Ops - Springfield",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "kubernetes",
+        "terraform"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5120837242",
+      "title": "Cloud Architect",
+      "original_title": "Lead Specialist, Cyber Security - Cloud, DevOps",
+      "company": "Gateway Integrated Solutions",
+      "skills": [
+        "terraform"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5704132600",
+      "title": "Cloud Architect",
+      "original_title": "Principal Architect IV, Retail, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731213570",
+      "title": "Cloud Architect",
+      "original_title": "Director, Network Architecture & Cloud Solutions",
+      "company": "Aureon",
+      "skills": [
+        "kubernetes"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731211550",
+      "title": "Cloud Architect",
+      "original_title": "Mgr III, Professional Services - AMZ10451692",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732745499",
+      "title": "Cloud Architect",
+      "original_title": "Mgr III, Professional Services - AMZ10451692",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5661768419",
+      "title": "Cloud Architect",
+      "original_title": "Sr. Manager/Assoc Dir, Cloud Infrastructure & Linux",
+      "company": "Alkermes",
+      "skills": [
+        "aws",
+        "linux",
+        "r"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5703189739",
+      "title": "Cloud Architect",
+      "original_title": "Principal Architect III, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5673185969",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5673153053",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5673226328",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5673101033",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5673101615",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5655393167",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5673493975",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5656743496",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732114304",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732922187",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (AWS)",
+      "company": "Contact Government Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5161763359",
+      "title": "Cloud Architect",
+      "original_title": "Cybersecurity Architect III - AWS Cloud",
+      "company": "JPMorgan Chase & Co.",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5678820754",
+      "title": "Cloud Architect",
+      "original_title": "Application Developer",
+      "company": "Genesee & Wyoming Main",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4898606604",
+      "title": "Cloud Architect",
+      "original_title": "Data Architect | US",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5492883079",
+      "title": "Cloud Architect",
+      "original_title": "Azure Architect",
+      "company": "Tiger Analytics Inc.",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707692886",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect, Data, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707698231",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect, Data, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707841446",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect, Data, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707819147",
+      "title": "Cloud Architect",
+      "original_title": "Solutions Architect, Data, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5702440453",
+      "title": "Cloud Architect",
+      "original_title": "Senior Consultant",
+      "company": "Virtusa",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730194851",
+      "title": "Cloud Architect",
+      "original_title": "Architect Lead, Public Cloud Networking",
+      "company": "FIS Capital Markets",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5488579397",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Specialist",
+      "company": "Community Health Systems",
+      "skills": [
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714146020",
+      "title": "Cloud Architect",
+      "original_title": "Site Reliability Engineer",
+      "company": "NTT America, Inc.",
+      "skills": [
+        "google cloud",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714120856",
+      "title": "Cloud Architect",
+      "original_title": "Mid-Level Cloud Engineer (5244) (Cleared & On-site)",
+      "company": "SMX",
+      "skills": [
+        "analytics",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5706600705",
+      "title": "Cloud Architect",
+      "original_title": "Java Developer - Consultant in Columbia SC",
+      "company": "Columbia, SC",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733552544",
+      "title": "Cloud Architect",
+      "original_title": "Senior GCP Platform Engineer :: Dallas, TX (Onsite)",
+      "company": "Stellent IT LLC",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726457880",
+      "title": "Cloud Architect",
+      "original_title": "Lead Azure Architect",
+      "company": "Cirrus Group Consulting",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4823957346",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineering Team",
+      "company": "27Global",
+      "skills": [
+        "data engineering"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5672122114",
+      "title": "Cloud Architect",
+      "original_title": "Managing Data Architect— Data & Cloud Architecture Lead",
+      "company": "Kyndryl",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5671504641",
+      "title": "Cloud Architect",
+      "original_title": "Managing Data Architect- Data & Cloud Architecture Lead",
+      "company": "Kyndryl",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733486383",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Agile Lead",
+      "company": "Synchrony Financial",
+      "skills": [
+        "agile",
+        "scrum"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5733486397",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Agile Lead",
+      "company": "Synchrony Financial",
+      "skills": [
+        "agile",
+        "scrum"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5733486368",
+      "title": "Cloud Architect",
+      "original_title": "VP, Cloud Agile Lead",
+      "company": "Synchrony Financial",
+      "skills": [
+        "agile",
+        "scrum"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5707981464",
+      "title": "Cloud Architect",
+      "original_title": "Senior ProServe Account Executive, AWS WWPS Professional Services",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5700842532",
+      "title": "Cloud Architect",
+      "original_title": "Customer Engineer, Data & Analytics",
+      "company": "Premier Cloud",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5531070121",
+      "title": "Cloud Architect",
+      "original_title": "Senior Data Scientist",
+      "company": "Diné Development Corporation",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4811232491",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer (TS/SCI)",
+      "company": "Beyond SOF",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5652925616",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer",
+      "company": "JCD Staffing",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5618076486",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618304703",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321731",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321705",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321730",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618321704",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618212090",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618212094",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618262765",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618262751",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5618076524",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5665572505",
+      "title": "Cloud Architect",
+      "original_title": "CI/CD Pipeline Engineer",
+      "company": "deciBel Research, Inc.",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707913418",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Engineer / Developer",
+      "company": "CoSourcing Partners",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5327568160",
+      "title": "Cloud Architect",
+      "original_title": "Back End Architect |US",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "java",
+        "spring"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5550987967",
+      "title": "Cloud Architect",
+      "original_title": "Data Architect _US",
+      "company": "Photon Group",
+      "skills": [
+        "analytics",
+        "google cloud",
+        "mysql",
+        "postgresql",
+        "sql"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5716618447",
+      "title": "Cloud Architect",
+      "original_title": "AL/ML Program Manager",
+      "company": "Virtusa",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5523126683",
+      "title": "Cloud Architect",
+      "original_title": "Mainframe Architect (AWS Migration Specialist)",
+      "company": "Cliff Services",
+      "skills": [
+        "aws",
+        "r"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5699028448",
+      "title": "Cloud Architect",
+      "original_title": "Associate Director, Cloud Infrastructure & Linux",
+      "company": "Alkermes",
+      "skills": [
+        "aws",
+        "linux",
+        "r"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5461687853",
+      "title": "Cloud Architect",
+      "original_title": "AWS DevOps Engineer",
+      "company": "DELOITTE",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5461687800",
+      "title": "Cloud Architect",
+      "original_title": "AWS DevOps Engineer",
+      "company": "DELOITTE",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4814426763",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - Storage | Maryland",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4814401823",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - Automation | Maryland",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4804612614",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - Generalist | Maryland",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5461355346",
+      "title": "Cloud Architect",
+      "original_title": "AWS DevOps Engineer",
+      "company": "Deloitte",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5714299809",
+      "title": "Cloud Architect",
+      "original_title": "Google CX CoE Leader",
+      "company": "EXL",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4814746517",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - GKE | Maryland",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4804645758",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - Analytics | Maryland",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5269365712",
+      "title": "Cloud Architect",
+      "original_title": "Technical Recruiting & Market Intelligence Intern (Part-Time, Remote)",
+      "company": "SCOUT Solutions",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5312178623",
+      "title": "Cloud Architect",
+      "original_title": "Common Cloud Environment Support Lead",
+      "company": "Integral Federal",
+      "skills": [
+        "aws",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4802669083",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - Networking | Maryland",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4802642534",
+      "title": "Cloud Architect",
+      "original_title": "GCP Engineer - Security | Maryland",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728587507",
+      "title": "Cloud Architect",
+      "original_title": "Direct Client: Senior AWS Cloud Migration & DevOps Architect @ Lansing, MI – Hybrid – Locals",
+      "company": "KSN Technologies. Inc",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5664555677",
+      "title": "Cloud Architect",
+      "original_title": "Director of Professional Services, FSI, AWS Professional Services",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5664614701",
+      "title": "Cloud Architect",
+      "original_title": "Director of Professional Services, FSI, AWS Professional Services",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723997567",
+      "title": "Cloud Architect",
+      "original_title": "Common Cloud Environment (C2E) Support Lead/Program Manager - Intermediate",
+      "company": "Sev1 Tech, Inc.",
+      "skills": [
+        "sql"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722788408",
+      "title": "Cloud Architect",
+      "original_title": "Common Cloud Environment (C2E) Support Lead/Program Manager - Intermediate",
+      "company": "Sev1 Tech, Inc.",
+      "skills": [
+        "sql"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722382485",
+      "title": "Cloud Architect",
+      "original_title": "Cloud DevOps Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "google cloud",
+        "jenkins",
+        "linux",
+        "sql",
+        "terraform"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "4814753492",
+      "title": "Cloud Architect",
+      "original_title": "DevOps Engineer",
+      "company": "Roberts Recruiting",
+      "skills": [
+        "aws",
+        "docker",
+        "jenkins",
+        "kubernetes",
+        "terraform"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "4816790972",
+      "title": "Cloud Architect",
+      "original_title": "Control Engineers - Security, GCP, Rego Policies - NY, US",
+      "company": "Photon Group",
+      "skills": [
+        "google cloud",
+        "terraform"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727688537",
+      "title": "Cloud Architect",
+      "original_title": "Senior Front-End Developer",
+      "company": "Archer Daniels Midland Company ",
+      "skills": [
+        "react"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5518666775",
+      "title": "Cloud Architect",
+      "original_title": "GCP Administrator",
+      "company": "Prediktive",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330745294",
+      "title": "Cloud Architect",
+      "original_title": "Data Engineer (only W2 contract no C2C)",
+      "company": "4P Consulting",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5640856627",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engineer II",
+      "company": "27Global",
+      "skills": [
+        "data engineering"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5431485819",
+      "title": "Cloud Architect",
+      "original_title": "Solution Architect, Utilities, Google Cloud Platform",
+      "company": "West Monroe",
+      "skills": [
+        "analytics",
+        "google cloud"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5716444780",
+      "title": "Cloud Architect",
+      "original_title": "Industry Solutions Architect Manager, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716330291",
+      "title": "Cloud Architect",
+      "original_title": "Industry Solutions Architect Manager, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716457983",
+      "title": "Cloud Architect",
+      "original_title": "Industry Solutions Architect Manager, Google Cloud",
+      "company": "Google",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498689449",
+      "title": "Cloud Architect",
+      "original_title": "Big Data Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498691951",
+      "title": "Cloud Architect",
+      "original_title": "Big Data Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498515533",
+      "title": "Cloud Architect",
+      "original_title": "Big Data Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5497879300",
+      "title": "Cloud Architect",
+      "original_title": "Big Data Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498601251",
+      "title": "Cloud Architect",
+      "original_title": "Big Data Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5498621152",
+      "title": "Cloud Architect",
+      "original_title": "Big Data Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5497592213",
+      "title": "Cloud Architect",
+      "original_title": "Big Data Architect",
+      "company": "Cymertek",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5620648192",
+      "title": "Cloud Architect",
+      "original_title": "Staff Salesforce Architect, Sales & Service Cloud",
+      "company": "Natera",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706600181",
+      "title": "Cloud Architect",
+      "original_title": "Lead Architect (AWS, Oracle Cloud Infrastructure)",
+      "company": "New York, NY",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706594751",
+      "title": "Cloud Architect",
+      "original_title": "AWS Architect with GoV Cloud FedRAMP Exp",
+      "company": "Atlanta, GA",
+      "skills": [
+        "aws",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5666884166",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Engagement Manager",
+      "company": "Join the ATG team",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732265093",
+      "title": "Cloud Architect",
+      "original_title": "Lead GCP Cloud Engineer",
+      "company": "Lightfeather.io",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732295014",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud Engineer",
+      "company": "Lightfeather.io",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732255983",
+      "title": "Cloud Architect",
+      "original_title": "Google Cloud Platform Engineer",
+      "company": "Lightfeather.io",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732252517",
+      "title": "Cloud Architect",
+      "original_title": "Senior GCP Cloud Engineer",
+      "company": "Lightfeather.io",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5487559880",
+      "title": "Cloud Architect",
+      "original_title": "Cloud Specialist",
+      "company": "Community Health Systems",
+      "skills": [
+        "azure",
+        "google cloud",
+        "r"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5184605827",
+      "title": "Cloud Architect",
+      "original_title": "AWS Architect US Citizen Only",
+      "company": "Widescope Consulting and Contracting Services",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732199560",
+      "title": "Cloud Architect",
+      "original_title": "GCP Cloud/DevOps Engineer",
+      "company": "Lightfeather.io",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716742760",
+      "title": "Cloud Architect",
+      "original_title": "DevOps Engineer",
+      "company": "Lightfeather.io",
+      "skills": [
+        "google cloud"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5518423193",
+      "title": "Cloud Architect",
+      "original_title": "Senior PM",
+      "company": "Resolve Tech Solutions",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707828581",
+      "title": "Cloud Architect",
+      "original_title": "Mainframe and SRE Architect",
+      "company": "Cognizant",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730468054",
+      "title": "Cloud Architect",
+      "original_title": "Network Architect – F5 Distributed Cloud / MuleSoft / AWS",
+      "company": "Five Rivers IT, Inc.",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728585171",
+      "title": "Cloud Architect",
+      "original_title": "Data Bricks Solution Architect/Databricks Architect/Data Architect",
+      "company": "VDart Inc",
+      "skills": [
+        "aws",
+        "azure",
+        "data engineering",
+        "google cloud"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5724774790",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678683513",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725520282",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725520283",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725520297",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725520296",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724774787",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725517244",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714069753",
+      "title": "Cloud Architect",
+      "original_title": "Senior Facets Product Specialist - G6 AWS DevOps Implementation",
+      "company": "Cognizant",
+      "skills": [
+        "aws",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725523052",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678658511",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678688350",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725528854",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5722426291",
+      "title": "Cloud Architect",
+      "original_title": "Sr. ProServe Account Executive, WWPS, ProServe EDUSLG",
+      "company": "Amazon",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5678775879",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725527837",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724775313",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724775312",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714125966",
+      "title": "Cloud Architect",
+      "original_title": "Senior Facets Product Specialist - G6 AWS DevOps Implementation",
+      "company": "Cognizant",
+      "skills": [
+        "aws",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678845686",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678686437",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724768729",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724768735",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714065434",
+      "title": "Cloud Architect",
+      "original_title": "Senior Facets Product Specialist - G6 AWS DevOps Implementation",
+      "company": "Cognizant",
+      "skills": [
+        "aws",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725591486",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724768736",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678697287",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5713956276",
+      "title": "Cloud Architect",
+      "original_title": "Senior Facets Product Specialist - G6 AWS DevOps Implementation",
+      "company": "Cognizant",
+      "skills": [
+        "aws",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725511039",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725511043",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Director",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5678731726",
+      "title": "Cloud Architect",
+      "original_title": "Entry-level Moment AWS & Google Contact Center Developer",
+      "company": "Cognizant",
+      "skills": [
+        "agile",
+        "aws"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724766395",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724766398",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer - Senior Associate",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724766396",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724766389",
+      "title": "Cloud Architect",
+      "original_title": "GenAI Python Systems Engineer-Manager",
+      "company": "PwC",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714130977",
+      "title": "Cloud Architect",
+      "original_title": "Senior Facets Product Specialist - G6 AWS DevOps Implementation",
+      "company": "Cognizant",
+      "skills": [
+        "aws",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5713370150",
+      "title": "Cloud Architect",
+      "original_title": "Senior Cloud Security Specialist-API",
+      "company": "ClearFocus Technologies",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5632425207",
+      "title": "Cloud Architect",
+      "original_title": "Senior Site Reliability Engineer",
+      "company": "TP-Link Systems Inc.",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633622741",
+      "title": "Cloud Architect",
+      "original_title": "Site Reliability Engineer",
+      "company": "TP-Link Systems Inc.",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    }
+  ],
+  "source": "adzuna"
+}

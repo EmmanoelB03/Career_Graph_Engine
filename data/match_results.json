@@ -1,0 +1,113 @@
+[
+  {
+    "role": "Mid-Level Software Engineer",
+    "score": 50.0,
+    "matched_skills": [
+      "java"
+    ],
+    "matched_count": 1,
+    "total_required": 2,
+    "gaps": [
+      {
+        "skill": "spring",
+        "impact": 50.0
+      }
+    ],
+    "gap_count": 1
+  },
+  {
+    "role": "Software Engineer",
+    "score": 11.2,
+    "matched_skills": [
+      "java",
+      "python",
+      "sql",
+      "typescript"
+    ],
+    "matched_count": 4,
+    "total_required": 15,
+    "gaps": [
+      {
+        "skill": "agile",
+        "impact": 72.9
+      },
+      {
+        "skill": "data engineering",
+        "impact": 1.8
+      },
+      {
+        "skill": "aws",
+        "impact": 1.8
+      },
+      {
+        "skill": "spark",
+        "impact": 1.3
+      },
+      {
+        "skill": "react",
+        "impact": 1.3
+      },
+      {
+        "skill": "c#",
+        "impact": 0.9
+      },
+      {
+        "skill": "kubernetes",
+        "impact": 0.9
+      },
+      {
+        "skill": "scala",
+        "impact": 0.9
+      },
+      {
+        "skill": "google cloud",
+        "impact": 0.9
+      },
+      {
+        "skill": "django",
+        "impact": 0.9
+      },
+      {
+        "skill": "c++",
+        "impact": 0.4
+      }
+    ],
+    "gap_count": 11
+  },
+  {
+    "role": "Senior Associate, Software Engineering",
+    "score": 0.0,
+    "matched_skills": [],
+    "matched_count": 0,
+    "total_required": 2,
+    "gaps": [
+      {
+        "skill": "agile",
+        "impact": 50.0
+      },
+      {
+        "skill": "c++",
+        "impact": 50.0
+      }
+    ],
+    "gap_count": 2
+  },
+  {
+    "role": "Software Engineer with Poly SR SWE2",
+    "score": 0.0,
+    "matched_skills": [],
+    "matched_count": 0,
+    "total_required": 2,
+    "gaps": [
+      {
+        "skill": "agile",
+        "impact": 50.0
+      },
+      {
+        "skill": "analytics",
+        "impact": 50.0
+      }
+    ],
+    "gap_count": 2
+  }
+]

@@ -232,11 +232,28 @@ def aggregate_market_data(jobs: list[dict], target_role: str) -> dict:
     }
 
 
-def run(target_role: str = "Data Engineer") -> dict:
+def run(target_role: str = "Data Engineer", force_refresh: bool = False) -> dict:
     print("=" * 55)
     print(f"FASE 1 — Ingestão de Dados do Mercado (Adzuna US)")
     print(f"Cargo-alvo: {target_role}")
     print("=" * 55)
+
+    # Nome do arquivo de cache baseado no cargo
+    cache_name = target_role.lower().replace(" ", "_")
+    cache_path = Path("data") / f"market_data_{cache_name}.json"
+
+    # Se o cache existe e não for forçado o refresh, carrega direto
+    if cache_path.exists() and not force_refresh:
+        print(f"\n⚡ Cache encontrado: {cache_path}")
+        print(f"Carregando dados locais para '{target_role}'...")
+        with open(cache_path, "r", encoding="utf-8") as f:
+            market = json.load(f)
+        
+        # Também atualiza o market_data.json genérico para compatibilidade com Fase 3
+        with open(Path("data") / "market_data.json", "w", encoding="utf-8") as f:
+            json.dump(market, f, ensure_ascii=False, indent=2)
+            
+        return market
 
     raw_jobs = fetch_jobs_from_adzuna(target_role)
     print(f"\nProcessando {len(raw_jobs)} vagas brutas...")
@@ -246,12 +263,18 @@ def run(target_role: str = "Data Engineer") -> dict:
 
     out = Path("data")
     out.mkdir(exist_ok=True)
+    
+    # Salva o cache específico
+    with open(cache_path, "w", encoding="utf-8") as f:
+        json.dump(market, f, ensure_ascii=False, indent=2)
+
+    # Salva o market_data.json genérico (o que a Fase 3 lê por padrão)
     with open(out / "market_data.json", "w", encoding="utf-8") as f:
         json.dump(market, f, ensure_ascii=False, indent=2)
 
     print(f"\n✓ {market['total_jobs']} vagas de {target_role} processadas")
     print(f"✓ {len(market['skill_frequency'])} skills únicas identificadas")
-    print(f"✓ Dados salvos em data/market_data.json")
+    print(f"✓ Cache salvo em {cache_path}")
     print(f"\nTop 10 skills mais demandadas em {target_role}:")
     for skill, freq in list(market["skill_frequency"].items())[:10]:
         bar = "█" * min(freq, 30)

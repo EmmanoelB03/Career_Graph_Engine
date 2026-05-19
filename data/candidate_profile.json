@@ -1,0 +1,23 @@
+{
+  "skills": [
+    "data science",
+    "docker",
+    "git",
+    "java",
+    "javascript",
+    "linux",
+    "machine learning",
+    "node.js",
+    "numpy",
+    "pandas",
+    "postgresql",
+    "python",
+    "rest",
+    "scikit-learn",
+    "sql",
+    "streamlit",
+    "typescript"
+  ],
+  "skill_count": 17,
+  "resume_length": 3836
+}

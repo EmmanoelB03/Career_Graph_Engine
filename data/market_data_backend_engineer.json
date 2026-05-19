@@ -1,0 +1,4256 @@
+{
+  "total_jobs": 399,
+  "target_role": "Backend Engineer",
+  "skill_frequency": {
+    "go": 129,
+    "java": 51,
+    "python": 45,
+    "machine learning": 35,
+    "analytics": 34,
+    "node.js": 24,
+    "aws": 23,
+    "rest": 21,
+    "agile": 17,
+    "r": 16,
+    "typescript": 15,
+    "llm": 13,
+    "spring": 13,
+    "sql": 13,
+    "postgresql": 11,
+    "rails": 11,
+    "express": 9,
+    "kubernetes": 8,
+    "graphql": 7,
+    "c#": 7,
+    "azure": 6,
+    "kafka": 6,
+    "javascript": 6,
+    "ruby": 6,
+    "react": 5,
+    "scala": 5,
+    "fastapi": 5,
+    "data science": 5,
+    "google cloud": 4,
+    "rust": 4,
+    "php": 4,
+    "linux": 3,
+    "redis": 3,
+    "data engineering": 3,
+    "swift": 3,
+    "mongodb": 2,
+    "c++": 2,
+    "git": 2,
+    "spark": 2,
+    "scrum": 1,
+    "pytorch": 1,
+    "kotlin": 1,
+    "pandas": 1,
+    "flask": 1,
+    "elasticsearch": 1,
+    "terraform": 1,
+    "docker": 1,
+    "jira": 1,
+    "next.js": 1
+  },
+  "role_profiles": {
+    "Backend Engineer": {
+      "go": 0.219,
+      "java": 0.087,
+      "python": 0.077,
+      "machine learning": 0.06,
+      "analytics": 0.058,
+      "node.js": 0.041,
+      "aws": 0.039,
+      "rest": 0.036,
+      "agile": 0.029,
+      "r": 0.027,
+      "typescript": 0.026,
+      "llm": 0.022,
+      "spring": 0.022,
+      "sql": 0.022,
+      "postgresql": 0.019
+    }
+  },
+  "jobs": [
+    {
+      "id": "5716614493",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer",
+      "company": "Widenet Consulting",
+      "skills": [
+        "aws",
+        "postgresql",
+        "python"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5709913684",
+      "title": "Backend Engineer",
+      "original_title": "Java Backend Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "agile",
+        "java"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5706721034",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer - INTL",
+      "company": "Insight Global",
+      "skills": [
+        "agile",
+        "azure"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5662938665",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer- INTL- LATAM",
+      "company": "Insight Global",
+      "skills": [
+        "azure",
+        "kubernetes"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5654510564",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Java Backend Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5654532626",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - INTL India",
+      "company": "Insight Global",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679993656",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "David Joseph & Company",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727435972",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Nexiva Inc",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5597508891",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Junior AI",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5677515118",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Maxana",
+      "skills": [
+        "go",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5677515119",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Maxana",
+      "skills": [
+        "go",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5677515120",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Maxana",
+      "skills": [
+        "go",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5728585835",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Sumeru Solutions",
+      "skills": [
+        "java",
+        "kafka",
+        "linux",
+        "python"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5731205455",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Redolent",
+      "skills": [
+        "java",
+        "javascript",
+        "kubernetes",
+        "python",
+        "spring",
+        "sql"
+      ],
+      "skill_count": 6
+    },
+    {
+      "id": "4811291883",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Redolent",
+      "skills": [
+        "agile",
+        "java",
+        "scrum"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "4811352413",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Redolent",
+      "skills": [
+        "azure",
+        "google cloud",
+        "java",
+        "kafka",
+        "rest",
+        "spring",
+        "sql"
+      ],
+      "skill_count": 7
+    },
+    {
+      "id": "5277136528",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Meter",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5680727849",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4811248792",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Stash Invest",
+      "skills": [
+        "rails",
+        "ruby",
+        "sql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5330355432",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "javascript",
+        "machine learning",
+        "python",
+        "react"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5721470577",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Knowtex",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330280993",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "express",
+        "node.js",
+        "postgresql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5721155578",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "yeet",
+      "skills": [
+        "linux"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330602647",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4820075978",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Lightning AI",
+      "skills": [
+        "pytorch"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330071943",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "kotlin"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5696419503",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Treeswift",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4814784716",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Redolent",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5597285190",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Mem0",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5335224210",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Krea",
+      "skills": [
+        "express"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5502829605",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer",
+      "company": "Indent",
+      "skills": [
+        "postgresql"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5711909503",
+      "title": "Backend Engineer",
+      "original_title": "Backend Modernization Engineer III",
+      "company": "V-Soft Consulting Group, Inc.",
+      "skills": [
+        "aws",
+        "java"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5726295287",
+      "title": "Backend Engineer",
+      "original_title": "Python Backend Engineer",
+      "company": "Apptad Inc",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733556784",
+      "title": "Backend Engineer",
+      "original_title": "Java Backend Engineer",
+      "company": "WorkNovas LLC",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5594970052",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Code Metal",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5500958571",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Junior AI",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709110228",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "RST Recruitment",
+      "skills": [
+        "go",
+        "google cloud",
+        "llm",
+        "postgresql"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5730149544",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer",
+      "company": "Assured",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729849338",
+      "title": "Backend Engineer",
+      "original_title": "Java backend Engineer",
+      "company": "VDart Inc",
+      "skills": [
+        "java",
+        "node.js",
+        "spring"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5725206079",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer - Java, Python with AI/ML",
+      "company": "MPower Plus",
+      "skills": [
+        "java",
+        "machine learning",
+        "python",
+        "rest"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5727848616",
+      "title": "Backend Engineer",
+      "original_title": "JAVA Backend Engineer",
+      "company": "Orchard",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5576135352",
+      "title": "Backend Engineer",
+      "original_title": "Platform Backend Engineer",
+      "company": "Neon Redwood",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706058798",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Recruiting From Scratch",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5677793456",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Recruiting From Scratch",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5506614576",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Stability AI",
+      "skills": [
+        "machine learning",
+        "python",
+        "rest",
+        "scala",
+        "typescript"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5663587027",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "NxT Level",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5640304677",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer",
+      "company": "247Hire",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732286434",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Branding Brand",
+      "skills": [
+        "python",
+        "sql"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5711342765",
+      "title": "Backend Engineer",
+      "original_title": "Founding Backend Engineer",
+      "company": "NxT Level",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5134601463",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Insomnia Labs",
+      "skills": [
+        "node.js",
+        "sql"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5635312339",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Open",
+      "skills": [
+        "analytics",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5576136707",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Doctronic",
+      "skills": [
+        "aws",
+        "fastapi",
+        "python"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5114757943",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Finvest",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5626625712",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Popl Co",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330694706",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "graphql",
+        "node.js",
+        "typescript"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5721419120",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Raylu AI",
+      "skills": [
+        "go",
+        "node.js",
+        "typescript"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5721364559",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Phia",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726606768",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer",
+      "company": "Concora Credit Inc.",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5006810078",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Replo",
+      "skills": [
+        "analytics",
+        "kafka",
+        "node.js",
+        "redis",
+        "typescript"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5679737998",
+      "title": "Backend Engineer",
+      "original_title": "Java Backend Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5686705682",
+      "title": "Backend Engineer",
+      "original_title": "Java Backend Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330782073",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5687939113",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "RoadSync",
+      "skills": [
+        "aws",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5704072589",
+      "title": "Backend Engineer",
+      "original_title": "INTL Backend Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "c#",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5654047883",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Scanner",
+      "skills": [
+        "rust"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5530450709",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Via",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5342790229",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Pact Labs",
+      "skills": [
+        "aws",
+        "kubernetes",
+        "postgresql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5695229842",
+      "title": "Backend Engineer",
+      "original_title": "Director, Backend Engineering",
+      "company": "AssetMark Financial Holdings",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5644243780",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, L5",
+      "company": "Novig",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5631215551",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer",
+      "company": "Giga",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5502527711",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Orchestra Bio",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5635342694",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, L4",
+      "company": "Novig",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5721290666",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Foresight Data",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5500703679",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Linkup",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5654273236",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, AI",
+      "company": "LaunchDarkly",
+      "skills": [
+        "aws",
+        "go",
+        "python"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5193467904",
+      "title": "Backend Engineer",
+      "original_title": "MTS, Backend Engineer",
+      "company": "Delphina",
+      "skills": [
+        "pandas"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5721150817",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Knox Systems",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5693028063",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "AdCellerant",
+      "skills": [
+        "java",
+        "node.js"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5506268450",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Flashbots",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5710851671",
+      "title": "Backend Engineer",
+      "original_title": "Java Backend Engineer",
+      "company": "CGI",
+      "skills": [
+        "agile",
+        "java",
+        "kafka",
+        "spring"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5575987072",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer - Known",
+      "company": "Pear VC",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5721418089",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Akuity",
+      "skills": [
+        "kubernetes"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5714908438",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5646695643",
+      "title": "Backend Engineer",
+      "original_title": "Java Backend Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "graphql",
+        "java",
+        "rest",
+        "spring"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5640104652",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer",
+      "company": "Solve IT Strategies",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5634604381",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Umbrel",
+      "skills": [
+        "node.js",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5623617921",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Komodor",
+      "skills": [
+        "kubernetes"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5500633224",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Lev",
+      "skills": [
+        "flask",
+        "graphql",
+        "postgresql",
+        "python"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5640080150",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer",
+      "company": "Solve IT Strategies",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726618663",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer/FullStack",
+      "company": "Iconstaff",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726663165",
+      "title": "Backend Engineer",
+      "original_title": "Founding Backend Engineer",
+      "company": "Decruit",
+      "skills": [
+        "rails"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5684545308",
+      "title": "Backend Engineer",
+      "original_title": "INTL Backend Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "c#",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5686778853",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer",
+      "company": "dv01",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330349973",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "express",
+        "node.js",
+        "postgresql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5420664129",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (Infra)",
+      "company": "Conversion",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5703192798",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Leidos",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5703162072",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Leidos",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5703012878",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Leidos",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5725448445",
+      "title": "Backend Engineer",
+      "original_title": "Lead Backend Engineer (Python)",
+      "company": "Openkyber",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727604855",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer ID63948",
+      "company": "AgileEngine",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726296852",
+      "title": "Backend Engineer",
+      "original_title": "Senior Java Backend Engineer",
+      "company": "CYNET SYSTEMS",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725448427",
+      "title": "Backend Engineer",
+      "original_title": "Lead Backend Engineer (Python)",
+      "company": "Openkyber",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4807031784",
+      "title": "Backend Engineer",
+      "original_title": "Staff/Senior Backend Engineer",
+      "company": "Redolent",
+      "skills": [
+        "node.js",
+        "rest"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5720177303",
+      "title": "Backend Engineer",
+      "original_title": "Search Backend Engineer Remote",
+      "company": "Progressive Technology Federal Systems",
+      "skills": [
+        "elasticsearch",
+        "java"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5572820556",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - Python",
+      "company": "ManpowerGroup",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5704952518",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Python)",
+      "company": "Recruiting From Scratch",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5222414862",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer Ruby on Rails",
+      "company": "Stash Invest",
+      "skills": [
+        "rails",
+        "ruby",
+        "sql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5565579336",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer , Data Infrastructure",
+      "company": "Spotify",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5714351392",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer, Onchain",
+      "company": "Polymarket",
+      "skills": [
+        "express"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723950382",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer ID63948",
+      "company": "AgileEngine",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5695506335",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer - Commerce",
+      "company": "Together AI",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729843607",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Python)",
+      "company": "Unknown",
+      "skills": [
+        "aws",
+        "fastapi",
+        "python"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5222535855",
+      "title": "Backend Engineer",
+      "original_title": "Lead Backend Engineer/Architect",
+      "company": "Roberts Recruiting",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5639940156",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend Engineer",
+      "company": "Rescale",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5680969478",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, Oasis, Music",
+      "company": "Spotify",
+      "skills": [
+        "express"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707702054",
+      "title": "Backend Engineer",
+      "original_title": "INTL - Principal Backend Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "aws",
+        "node.js"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5641261448",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer, Reliability",
+      "company": "Unify",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5562973164",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer - Data Infrastructure",
+      "company": "Spotify",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706624309",
+      "title": "Backend Engineer",
+      "original_title": "Senior Scala Backend Engineer",
+      "company": "Denver, CO",
+      "skills": [
+        "scala"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5706597647",
+      "title": "Backend Engineer",
+      "original_title": "Senior Scala Backend Engineer",
+      "company": "Denver, CO",
+      "skills": [
+        "scala"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5713383568",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer - Integrations",
+      "company": "Prolaio",
+      "skills": [
+        "data science"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730999888",
+      "title": "Backend Engineer",
+      "original_title": "Senior Director, Backend Engineering",
+      "company": "insightsoftware",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5681901546",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, Oasis, Music",
+      "company": "Spotify",
+      "skills": [
+        "express"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5709808578",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Java Backend Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5654531463",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Java Backend Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5654534728",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Java Backend Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5461039569",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Platform)",
+      "company": "Conversion",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728869570",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer (Platform)",
+      "company": "Conversion",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728824290",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Product)",
+      "company": "Conversion",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330058756",
+      "title": "Backend Engineer",
+      "original_title": "Senior/Principal Backend Engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "graphql",
+        "rails",
+        "ruby"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5726749003",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Java Backend Engineer",
+      "company": "CGI",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5689519281",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, Bonfire, Music",
+      "company": "Spotify",
+      "skills": [
+        "express"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726484211",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (VDI)",
+      "company": "Decruit",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726737423",
+      "title": "Backend Engineer",
+      "original_title": "Senior Java Backend Engineer",
+      "company": "PKR",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5690366683",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, Bonfire, Music",
+      "company": "Spotify",
+      "skills": [
+        "express"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5684830597",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer, Subscriptions",
+      "company": "Spotify",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5684794651",
+      "title": "Backend Engineer",
+      "original_title": "Senior AI Backend Engineer",
+      "company": "Komodor",
+      "skills": [
+        "kubernetes"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5344753266",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Remote)",
+      "company": "Zencastr",
+      "skills": [
+        "javascript",
+        "node.js"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5466226762",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Staff)",
+      "company": "SafetyKit",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5465966206",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (Product, Infra)",
+      "company": "SafetyKit",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727956144",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, Measurement - Evaluation",
+      "company": "Apple",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5501275784",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Infrastructure)",
+      "company": "Sphere",
+      "skills": [
+        "rails"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633879978",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633802205",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633894949",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633894934",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633880253",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633880224",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633880249",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633881616",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633881590",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633881589",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633881080",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633871893",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633671227",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633671206",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633860488",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727604857",
+      "title": "Backend Engineer",
+      "original_title": "Senior Kotlin Backend Engineer ID63948",
+      "company": "AgileEngine",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5270373410",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer, Generative AI Services",
+      "company": "OPPO US Research Center",
+      "skills": [
+        "azure",
+        "google cloud"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4814806086",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (JavaScript/Node.Js)",
+      "company": "Redolent",
+      "skills": [
+        "go",
+        "javascript",
+        "node.js"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5658060785",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Engineer -.Net and Node",
+      "company": "West Coast Consulting",
+      "skills": [
+        "c#",
+        "node.js"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5708825205",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - PHP/Laravel",
+      "company": "Creve Coeur, MO",
+      "skills": [
+        "php"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5652906539",
+      "title": "Backend Engineer",
+      "original_title": "REMOTE- Staff Backend Engineer (Golang)",
+      "company": "Insight Global",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5589765623",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (Full Stack / React)",
+      "company": "The Giant Bullseye",
+      "skills": [
+        "react"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5715085570",
+      "title": "Backend Engineer",
+      "original_title": "Technical Lead, Python Backend Engineer",
+      "company": "3Pillar Global",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5717730987",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer, Connectors & Discover",
+      "company": "Zendesk",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5636951102",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer, US Exchange",
+      "company": "Polymarket",
+      "skills": [
+        "express"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723950392",
+      "title": "Backend Engineer",
+      "original_title": "Senior Kotlin Backend Engineer ID63948",
+      "company": "AgileEngine",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733104031",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer Java Scala",
+      "company": "Kforce",
+      "skills": [
+        "java",
+        "scala"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5701089465",
+      "title": "Backend Engineer",
+      "original_title": "Remote Backend Engineer — AI Systems",
+      "company": "Unknown",
+      "skills": [
+        "node.js",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5600215986",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - Infrastructure (ClickPipes)",
+      "company": "ClickHouse",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330764074",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Tech Lead)",
+      "company": "Hired Recruiters",
+      "skills": [
+        "aws",
+        "graphql"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5619930610",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - AWS Focus",
+      "company": "Insight Global",
+      "skills": [
+        "aws",
+        "java",
+        "javascript",
+        "terraform"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5714088132",
+      "title": "Backend Engineer",
+      "original_title": "Senior Software Engineer (Backend Engineering) ⭐",
+      "company": "Achievers",
+      "skills": [
+        "go",
+        "google cloud",
+        "kubernetes",
+        "python"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5689477054",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer - Card Transaction Processing",
+      "company": "Ether.fi",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723766586",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Data Platform)",
+      "company": "Bluefish AI",
+      "skills": [
+        "data engineering"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5084553425",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer, Trust Platform",
+      "company": "Credit Genie",
+      "skills": [
+        "swift"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5717725826",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Remote, US)",
+      "company": "Openly",
+      "skills": [
+        "data science"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5576852709",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - Endless Commerce",
+      "company": "Pear VC",
+      "skills": [
+        "postgresql",
+        "rails",
+        "redis",
+        "ruby"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5731933894",
+      "title": "Backend Engineer",
+      "original_title": "Senior Python/FastAPI Backend Engineer",
+      "company": "Unknown",
+      "skills": [
+        "aws",
+        "fastapi",
+        "postgresql",
+        "python"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5721419796",
+      "title": "Backend Engineer",
+      "original_title": "Founding Backend Engineer – AI & Data",
+      "company": "Clipbook",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5490318800",
+      "title": "Backend Engineer",
+      "original_title": "Principal Backend Engineer AI (Python)",
+      "company": "Cotiviti",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714239789",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Austin, TX)",
+      "company": "Torq",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5720008871",
+      "title": "Backend Engineer",
+      "original_title": "AI Backend Engineer - INTL India",
+      "company": "Insight Global",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722561480",
+      "title": "Backend Engineer",
+      "original_title": "Fullstack\\/Backend Engineer , Conversational Analytic",
+      "company": "Spotify",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330664578",
+      "title": "Backend Engineer",
+      "original_title": "Full stack | Frontend | Backend engineer",
+      "company": "Hired Recruiters",
+      "skills": [
+        "analytics",
+        "react"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5696116529",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (FastAPI  Azure DevOps  Clerk)",
+      "company": "Servant",
+      "skills": [
+        "scala"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5447620842",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - Recommendation Systems (Contractor)",
+      "company": "OPPO US Research Center",
+      "skills": [
+        "redis"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4807036326",
+      "title": "Backend Engineer",
+      "original_title": "Staff/Senior Staff/Senior Backend Engineer",
+      "company": "Redolent",
+      "skills": [
+        "node.js",
+        "rest"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5682032301",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Python / Node.js)",
+      "company": "S3",
+      "skills": [
+        "node.js",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5713354871",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer, Customer Value Optimisation",
+      "company": "HelloFresh",
+      "skills": [
+        "data science",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727842126",
+      "title": "Backend Engineer",
+      "original_title": "Swift Compiler Backend Engineer, Languages & Runtimes",
+      "company": "Apple",
+      "skills": [
+        "swift"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728939428",
+      "title": "Backend Engineer",
+      "original_title": "Swift Compiler Backend Engineer, Languages & Runtimes",
+      "company": "Apple",
+      "skills": [
+        "swift"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5611787415",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer / API Engineering Lead",
+      "company": "MyHR Partner",
+      "skills": [
+        "c#"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5411482457",
+      "title": "Backend Engineer",
+      "original_title": "Lead Backend Engineer (Publishing, PHP/Laravel)",
+      "company": "Empire",
+      "skills": [
+        "php"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731933900",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Node.js, AWS)",
+      "company": "Unknown",
+      "skills": [
+        "aws",
+        "node.js"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727456429",
+      "title": "Backend Engineer",
+      "original_title": "Distributed System / Backend Engineer (Reading, PA)",
+      "company": "Insight Global",
+      "skills": [
+        "java",
+        "kafka",
+        "spring"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5720261553",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - Identity & Access Management",
+      "company": "onX",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724777254",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer, ML Inference Systems",
+      "company": "Unity Technologies",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724653381",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer, ML Inference Systems",
+      "company": "Unity Technologies",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727391948",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer- Storage Infrastructure-INTL- LATAM",
+      "company": "Insight Global",
+      "skills": [
+        "analytics",
+        "c#"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5710186478",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - Rails, AI (Remote)",
+      "company": "Map Ssg",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716077345",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer – Cloud Native/ Kafka",
+      "company": "Siritech Solutions Corp",
+      "skills": [
+        "kafka"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724014422",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer, ML Inference Systems",
+      "company": "Unity Technologies",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5723957976",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer, ML Inference Systems",
+      "company": "Unity Technologies",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5418100861",
+      "title": "Backend Engineer",
+      "original_title": "15.Backend Engineer l バックエンドエンジニア（Ruby）",
+      "company": "ベースミー",
+      "skills": [
+        "rails",
+        "ruby"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5730257051",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (Multi-cloud Inference Platform)",
+      "company": "Modular",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728876542",
+      "title": "Backend Engineer",
+      "original_title": "Full stack engineer ( Backend)",
+      "company": "HCL Global System INC",
+      "skills": [
+        "java",
+        "spring"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5646703408",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend (Infrastructure Engineering)",
+      "company": "Benchling",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5733552698",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (TypeScript/Node.js - Denver, CO",
+      "company": "Qualis1 Inc",
+      "skills": [
+        "node.js",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5726716589",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer - Casual AI -MarTech/AdTech",
+      "company": "Three Pillars",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731284466",
+      "title": "Backend Engineer",
+      "original_title": "Staff / Senior Staff Backend Engineer, B2B Flywheel",
+      "company": "OpenAI",
+      "skills": [
+        "data science"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5586346083",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer, Agentic Workflows / Cloud platforms",
+      "company": "Talent Search PRO",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5407921905",
+      "title": "Backend Engineer",
+      "original_title": "Lead Backend Engineer, Content Management (PHP/Laravel)",
+      "company": "Empire",
+      "skills": [
+        "php"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5144812092",
+      "title": "Backend Engineer",
+      "original_title": "Lead Software Engineer- Backend Engineer with GenAI and Cloud",
+      "company": "JPMorgan Chase & Co.",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5527672829",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer, Hub (US East Coast)",
+      "company": "Docker",
+      "skills": [
+        "docker"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5583118244",
+      "title": "Backend Engineer",
+      "original_title": "Backend Engineer (Python) - (banking/payments/crypto companies)",
+      "company": "Talent Search PRO",
+      "skills": [
+        "python",
+        "rails",
+        "rest"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5450432015",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer – Identity Security & Agentic Systems",
+      "company": "Veza Technologies",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5636977550",
+      "title": "Backend Engineer",
+      "original_title": "Data Scientist/ AI Backend Engineer - INTL India",
+      "company": "Insight Global",
+      "skills": [
+        "azure"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5540257301",
+      "title": "Backend Engineer",
+      "original_title": "Member of Technical Staff - AI Product - Backend Engineer",
+      "company": "Microsoft Corporation",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5710760524",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Engineer - Search FX (Discovery Experience)",
+      "company": "Faire",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5655501000",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Oracle-PL/SQL/Java)",
+      "company": "Raymond James Financial, Inc.",
+      "skills": [
+        "sql"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5656434242",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer (Oracle-PL/SQL/Java)",
+      "company": "Raymond James",
+      "skills": [
+        "sql"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729851237",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Noblesoft Technologies",
+      "skills": [
+        "java",
+        "mongodb",
+        "spring"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5719697506",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Noetic Strategies",
+      "skills": [
+        "analytics",
+        "linux"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5714742944",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Book of the Month",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5716260381",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Set of X",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732763724",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer – TikTok-Style Video Infrastructure (Rust)",
+      "company": "Travoom",
+      "skills": [
+        "rust"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732763728",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Engineer – Twitter/X Style Infrastructure (Rust)",
+      "company": "Travoom",
+      "skills": [
+        "rust"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732308903",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Amarina Search Partners",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5703536529",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Leidos",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5709917621",
+      "title": "Backend Engineer",
+      "original_title": "Backend Java Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5713607395",
+      "title": "Backend Engineer",
+      "original_title": "Backend Java Engineer",
+      "company": "S3",
+      "skills": [
+        "java"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5429166727",
+      "title": "Backend Engineer",
+      "original_title": "Backend/DevOps Engineer",
+      "company": "The Josef Group",
+      "skills": [
+        "java",
+        "spring"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5681812371",
+      "title": "Backend Engineer",
+      "original_title": "Backend Application Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728840333",
+      "title": "Backend Engineer",
+      "original_title": "Backend ML Engineer",
+      "company": "Sterling Computers Corporation",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5600212282",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Tennr",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5703163167",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Leidos",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5703068138",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Leidos",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5703068132",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Leidos",
+      "skills": [
+        "java",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5729027498",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "bcore",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728589278",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Steampunk",
+      "skills": [
+        "agile",
+        "java",
+        "python",
+        "rest"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5727438059",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Steampunk",
+      "skills": [
+        "agile",
+        "java",
+        "python",
+        "rest"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5728707858",
+      "title": "Backend Engineer",
+      "original_title": "Backend Java Engineer",
+      "company": "Eliassen Group",
+      "skills": [
+        "agile",
+        "java",
+        "rest",
+        "spring"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5731005158",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Book of the Month",
+      "skills": [
+        "analytics",
+        "data engineering"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5673338172",
+      "title": "Backend Engineer",
+      "original_title": "Backend Process Engineer",
+      "company": "Semtech",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5601238806",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Next Insurance",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726622596",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "steampunk",
+      "skills": [
+        "agile",
+        "java",
+        "python",
+        "rest"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5648738766",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "dentsu",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726524261",
+      "title": "Backend Engineer",
+      "original_title": "BackEnd Software Engineer",
+      "company": "Stride Search",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5717546343",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer",
+      "company": "Set of X",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5407867799",
+      "title": "Backend Engineer",
+      "original_title": "Lead Backend Engineer (Budgets, Expense & Payments, PHP/Laravel)",
+      "company": "Empire",
+      "skills": [
+        "php"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5700178547",
+      "title": "Backend Engineer",
+      "original_title": "Senior Systems Software Engineer (Backend Engineer) - School of Nursing",
+      "company": "Emory",
+      "skills": [
+        "aws",
+        "node.js",
+        "sql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5700881814",
+      "title": "Backend Engineer",
+      "original_title": "Senior Systems Software Engineer (Backend Engineer) - School of Nursing",
+      "company": "Emory Healthcare/Emory University",
+      "skills": [
+        "aws",
+        "node.js",
+        "sql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5722823401",
+      "title": "Backend Engineer",
+      "original_title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate",
+      "company": "Goldman Sachs",
+      "skills": [
+        "java",
+        "spring"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5679737594",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679737600",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679740496",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679740494",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679740498",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679740493",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679737577",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679737572",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679737573",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679740492",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679740497",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711046",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711048",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711050",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633885467",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633885456",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633859769",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633862432",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633873141",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633859795",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633871195",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633871237",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633871199",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711049",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711051",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711045",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711044",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5679711047",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633871617",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633871612",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633898797",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633741078",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633741052",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633703354",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633703379",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633702502",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633703359",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633703380",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633702513",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633741089",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633856549",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633856604",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633856563",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633856572",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633898733",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633856527",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633898723",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633898739",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633898767",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633870869",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633898811",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5634054425",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633868364",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633822807",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633822810",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633816064",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633865216",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633865230",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5634052106",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5634052101",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633952364",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5634054414",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633880166",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633880185",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633870866",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633882868",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633882848",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633882846",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633882897",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633872311",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633872284",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633859772",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633873118",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633862477",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633859825",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633855849",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633855841",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633897710",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5633897740",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5634049891",
+      "title": "Backend Engineer",
+      "original_title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725448418",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer (Python)",
+      "company": "Openkyber",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5725448440",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer (Python)",
+      "company": "Openkyber",
+      "skills": [
+        "javascript",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5554019071",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer",
+      "company": "Spring Labs Holdings, Inc.",
+      "skills": [
+        "spring"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722391917",
+      "title": "Backend Engineer",
+      "original_title": "Brilliant BackEnd Software Engineer",
+      "company": "Black Cape",
+      "skills": [
+        "go",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5726297387",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer (Python)",
+      "company": "Openkyber",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5576138927",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer",
+      "company": "Fin",
+      "skills": [
+        "rails"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5610739490",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Data Engineer",
+      "company": "Pendulum",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5710917556",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer - HYBRID",
+      "company": "Red Arch Solutions",
+      "skills": [
+        "agile",
+        "aws",
+        "c++",
+        "git",
+        "java",
+        "jira",
+        "postgresql",
+        "python",
+        "sql"
+      ],
+      "skill_count": 9
+    },
+    {
+      "id": "5716797882",
+      "title": "Backend Engineer",
+      "original_title": "Lead Backend Platform Engineer",
+      "company": "January",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5728722942",
+      "title": "Backend Engineer",
+      "original_title": "DevOps/Backend Software Engineer",
+      "company": "Apple",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5658634038",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Software Engineer",
+      "company": "Tennr",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5653849824",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer",
+      "company": "Tennr",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5690360870",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer",
+      "company": "Kensho",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5690312640",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer",
+      "company": "S&P Global",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5731132007",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer",
+      "company": "OSTTRA",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5690323368",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer",
+      "company": "S&P Global",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5504397672",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer - Platform",
+      "company": "Layer Health",
+      "skills": [
+        "llm",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5724998924",
+      "title": "Backend Engineer",
+      "original_title": "Brilliant BackEnd Software Engineer",
+      "company": "Black Cape",
+      "skills": [
+        "go",
+        "typescript"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5726559741",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineering Technical Leader- Backend Data Engineer",
+      "company": "Cisco Systems",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5551884856",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer (ML Infra)",
+      "company": "Rockstar",
+      "skills": [
+        "aws"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5619822104",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer- REMOTE",
+      "company": "HERS Advisors",
+      "skills": [
+        "node.js"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5719697562",
+      "title": "Backend Engineer",
+      "original_title": "Mid-Level Backend Software Engineer",
+      "company": "Noetic Strategies",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5716253668",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer (Staff/Principal)",
+      "company": "Seeq",
+      "skills": [
+        "analytics",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4814589057",
+      "title": "Backend Engineer",
+      "original_title": "Staff/Senior Backend Software Engineer*",
+      "company": "Redolent",
+      "skills": [
+        "node.js",
+        "react",
+        "rest"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5719155137",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer (Go)",
+      "company": "Career Mentors, LLC",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5711014189",
+      "title": "Backend Engineer",
+      "original_title": "Principal Backend Software Engineer - HYBRID",
+      "company": "Red Arch Solutions",
+      "skills": [
+        "agile",
+        "aws",
+        "c++",
+        "git",
+        "java",
+        "postgresql",
+        "python",
+        "sql",
+        "typescript"
+      ],
+      "skill_count": 9
+    },
+    {
+      "id": "5688005778",
+      "title": "Backend Engineer",
+      "original_title": "INTL Senior Backend Software Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "python"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5729027494",
+      "title": "Backend Engineer",
+      "original_title": "Mid-Level Backend Software Engineer",
+      "company": "bcore",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "4816805307",
+      "title": "Backend Engineer",
+      "original_title": "Principal/Lead Backend Software Engineer",
+      "company": "Roberts Recruiting",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5677949595",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer (Mid-Level)",
+      "company": "Xona Space Systems",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5466204721",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer, GTM Innovation",
+      "company": "OpenAI",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5707851325",
+      "title": "Backend Engineer",
+      "original_title": "Backend Java Engineer - INTL Mexico",
+      "company": "Insight Global",
+      "skills": [
+        "java",
+        "machine learning"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5327196907",
+      "title": "Backend Engineer",
+      "original_title": "Infra, Cloud & Backend Software Engineer",
+      "company": "Credal",
+      "skills": [
+        "mongodb"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726671623",
+      "title": "Backend Engineer",
+      "original_title": "Senior Staff Backend Software Engineer",
+      "company": "2Bridge Partners",
+      "skills": [
+        "c#"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730968300",
+      "title": "Backend Engineer",
+      "original_title": "Senior UI Engineer - Austin, TX/ Sunnyvale, CA",
+      "company": "Digital Technology Solutions",
+      "skills": [
+        "react"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5695042740",
+      "title": "Backend Engineer",
+      "original_title": "Sr. GO Backend Software Engineer",
+      "company": "Siritech Solutions Corp",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5727832655",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer Backend",
+      "company": "Jobot",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5326940127",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Exa",
+      "skills": [
+        "rust"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5672099196",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Profound",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5575948752",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Anara",
+      "skills": [
+        "rest"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5267307232",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer (Backend)",
+      "company": "Standard Metrics",
+      "skills": [
+        "spark"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5732085298",
+      "title": "Backend Engineer",
+      "original_title": "Application Engineer (Backend)",
+      "company": "CACI",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5688307547",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer - Backend",
+      "company": "MotherDuck",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5708766881",
+      "title": "Backend Engineer",
+      "original_title": "Application Engineer (Backend)",
+      "company": "CACI International",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5279236042",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Glean",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5726394550",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Jose Merciline",
+      "skills": [
+        "graphql",
+        "rails",
+        "ruby"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5620874874",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Vercel",
+      "skills": [
+        "next.js"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5510668442",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Clay Labs",
+      "skills": [
+        "go"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5502621844",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer - Backend",
+      "company": "Snowflake",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5724034525",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Mixpanel",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5721364662",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer (Backend)",
+      "company": "Nace AI",
+      "skills": [
+        "llm"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5330815975",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer - Backend",
+      "company": "Pemberton Tech",
+      "skills": [
+        "typescript"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5342276062",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer, Backend",
+      "company": "Folio",
+      "skills": [
+        "rails",
+        "spark"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "4811385983",
+      "title": "Backend Engineer",
+      "original_title": "Software Engineer (Backend)",
+      "company": "Kloudfuse",
+      "skills": [
+        "analytics"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5655082601",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Platform Engineer, Distributed Systems",
+      "company": "Code Metal",
+      "skills": [
+        "fastapi",
+        "python"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5727747129",
+      "title": "Backend Engineer",
+      "original_title": "Senior Backend Software Engineer (Go) Remote",
+      "company": "Career Mentors, LLC",
+      "skills": [
+        "go",
+        "kubernetes",
+        "sql"
+      ],
+      "skill_count": 3
+    },
+    {
+      "id": "5703426056",
+      "title": "Backend Engineer",
+      "original_title": "Java backend data engineer - Smithfield RI",
+      "company": "Photon Group",
+      "skills": [
+        "aws",
+        "java",
+        "python",
+        "spring"
+      ],
+      "skill_count": 4
+    },
+    {
+      "id": "5724722792",
+      "title": "Backend Engineer",
+      "original_title": "Python Engineer",
+      "company": "Insight Global",
+      "skills": [
+        "analytics",
+        "data science",
+        "fastapi",
+        "python",
+        "rest"
+      ],
+      "skill_count": 5
+    },
+    {
+      "id": "5714109851",
+      "title": "Backend Engineer",
+      "original_title": "Staff Backend Software Engineer-NYC (Tapestry)",
+      "company": "Google",
+      "skills": [
+        "r"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5730260621",
+      "title": "Backend Engineer",
+      "original_title": "Sr. Backend Software Engineer (Video Engineering)",
+      "company": "Philo",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5538635966",
+      "title": "Backend Engineer",
+      "original_title": "Backend/API Engineer - Node.js - Onshore",
+      "company": "Photon Group",
+      "skills": [
+        "graphql",
+        "node.js"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5418056088",
+      "title": "Backend Engineer",
+      "original_title": "Member of Technical Staff – Backend/Platform Engineer",
+      "company": "Tzafon",
+      "skills": [
+        "machine learning"
+      ],
+      "skill_count": 1
+    },
+    {
+      "id": "5722362936",
+      "title": "Backend Engineer",
+      "original_title": "Backend Software Engineer (C#/.NET/Linux)",
+      "company": "Insight Global",
+      "skills": [
+        "c#",
+        "r"
+      ],
+      "skill_count": 2
+    },
+    {
+      "id": "5723689261",
+      "title": "Backend Engineer",
+      "original_title": "Lead Software Engineer - Backend/Java/Cloud",
+      "company": "JPMorgan Chase",
+      "skills": [
+        "agile"
+      ],
+      "skill_count": 1
+    }
+  ],
+  "source": "adzuna"
+}

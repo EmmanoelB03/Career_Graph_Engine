@@ -109,10 +109,14 @@ if run_btn:
     os.makedirs("data", exist_ok=True)
     os.makedirs("output", exist_ok=True)
 
-    with st.status("📡 Buscando vagas do mercado (Adzuna US)...", expanded=False) as status:
+    with st.status("📡 Analisando mercado...", expanded=False) as status:
         from fase1_ingestion import run as fase1_run
+        # O sistema agora decide internamente se usa cache ou busca na API
         market = fase1_run(target_role=target_role)
-        status.update(label=f"✅ {market['total_jobs']} vagas de {target_role} processadas", state="complete")
+        
+        # Se o total_jobs for o mesmo de um processamento anterior, 
+        # a fase1_run terá sido quase instantânea por causa do cache.
+        status.update(label=f"✅ Dados de {target_role} prontos!", state="complete")
 
     with st.status("🧠 Extraindo suas habilidades do currículo...", expanded=False) as status:
         from fase2_resume_parser import run as fase2_run

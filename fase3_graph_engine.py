@@ -128,15 +128,14 @@ def calculate_match_for_role(G, market, candidate_skills, target_role):
 
 
 
-def generate_pyvis_graph(G, match_results, candidate_skills):
+def generate_pyvis_for_role(G, result, candidate_skills):
     try:
         from pyvis.network import Network
     except ImportError:
         print("  PyVis não instalado.")
         return
 
-    # Pega o primeiro resultado (o cargo-alvo de maior score)
-    result = match_results[0]
+    # Pega os dados do cargo-alvo
     target_role = result["role"]
     matched_set = set(result["matched_skills"])
     gap_set = {g["skill"] for g in result["gaps"]}
@@ -187,6 +186,7 @@ def generate_pyvis_graph(G, match_results, candidate_skills):
     net.save_graph("output/career_graph.html")
     print("  ✓ Grafo salvo em output/career_graph.html")
 
+
 def print_report(match_results: list[dict]):
     print("\n" + "=" * 55)
     print("RESULTADOS — SCORE DE ADERÊNCIA POR CARGO")
@@ -236,7 +236,7 @@ def run():
     print(f"  ✓ Resultados salvos em data/match_results.json")
 
     print("\nGerando visualização PyVis...")
-    generate_pyvis_graph(G, match_results, candidate_skills)
+    generate_pyvis_for_role(G, match_results[0], candidate_skills)
 
     print_report(match_results)
 
