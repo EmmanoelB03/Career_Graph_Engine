@@ -72,7 +72,7 @@ def parse_with_gemini(resume_text: str, api_key: str) -> list[str]:
     try:
         import google.generativeai as genai
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash")
 
         prompt = f"""Você é um extrator especializado em habilidades técnicas de currículos de tecnologia.
 

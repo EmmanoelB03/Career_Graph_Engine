@@ -143,7 +143,7 @@ def generate_pyvis_graph(G, match_results, candidate_skills):
     gap_set = {g["skill"] for g in result["gaps"]}
     relevant_nodes = {"CANDIDATE", target_role} | matched_set | gap_set | set(candidate_skills)
 
-    net = Network(height="620px", width="100%", bgcolor="#0f1117", font_color="white")
+    net = Network(height="700px", width="100%", bgcolor="#0f1117", font_color="white")
     net.barnes_hut(gravity=-6000, central_gravity=0.4, spring_length=130)
 
     for node in relevant_nodes:

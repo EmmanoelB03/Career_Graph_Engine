@@ -38,6 +38,51 @@ def main():
     from fase3_graph_engine import run as fase3
     G, results = fase3()
 
+    # FASE 4 — Validação Qualitativa
+    print("\n" + "=" * 55)
+    print("FASE 4 — Validação Qualitativa com IA")
+    print("=" * 55)
+    
+    if api_key:
+        print("\nConsultando Tech Recruiter IA para parecer final...")
+        from fase4_validator import validate_match
+        import json
+        
+        # Pega dados para validação
+        top_result = results[0]
+        market_data = json.loads(Path("data/market_data.json").read_text())
+        role_skills = list(market_data["role_profiles"].get(top_result["role"], {}).keys())
+        
+        # Recupera texto do currículo original ou de exemplo
+        if not resume_text:
+            resume_text = "João Silva — Engenheiro de Dados Sênior. Pipelines Python, Airflow, SQL, AWS, Spark, Docker."
+
+        analise = validate_match(
+            resume_text=resume_text,
+            target_role=top_result["role"],
+            role_skills=role_skills,
+            graph_score=top_result["score"],
+            api_key=api_key
+        )
+        
+        if isinstance(analise, dict) and "veredito" in analise:
+            print(f"\n📢 VEREDITO: {analise['veredito']}")
+            print(f"🏅 Nível Percebido: {analise['analise_senioridade']}")
+            print(f"\n📝 Justificativa do Score ({top_result['score']}%):")
+            print(f"   {analise['justificativa_score']}")
+            
+            print("\n✅ PONTOS FORTES:")
+            for p in analise["pontos_fortes"]: print(f"   - {p}")
+            
+            print("\n⚠️ PONTOS DE ATENÇÃO:")
+            for p in analise["pontos_atencao"]: print(f"   - {p}")
+        elif isinstance(analise, dict) and "aviso" in analise:
+            print(f"  ! {analise['aviso']}")
+        else:
+            print(f"  ! Falha na análise qualitativa.")
+    else:
+        print("\n  ⚠️ GEMINI_API_KEY não encontrada. Pulando validação qualitativa.")
+
     print("\n" + "╔" + "═" * 53 + "╗")
     print("║              PIPELINE COMPLETO ✓               ║")
     print("╚" + "═" * 53 + "╝")
