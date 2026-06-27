@@ -1,24 +1,24 @@
 {
   "skills": [
-    "agile",
     "aws",
-    "c#",
-    "data engineering",
     "data science",
     "docker",
     "git",
     "java",
     "javascript",
     "linux",
+    "machine learning",
+    "node.js",
     "numpy",
     "pandas",
     "postgresql",
     "python",
+    "rest",
     "scikit-learn",
     "sql",
     "streamlit",
     "typescript"
   ],
   "skill_count": 18,
-  "resume_length": 3974
+  "resume_length": 3678
 }
