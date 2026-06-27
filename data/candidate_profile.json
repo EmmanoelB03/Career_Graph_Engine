@@ -1,24 +1,21 @@
 {
   "skills": [
+    "analytics",
     "aws",
-    "data science",
-    "docker",
-    "git",
+    "azure",
+    "ci cd",
+    "google cloud",
     "java",
-    "javascript",
-    "linux",
     "machine learning",
-    "node.js",
-    "numpy",
-    "pandas",
+    "mongodb",
+    "mysql",
     "postgresql",
     "python",
-    "rest",
-    "scikit-learn",
-    "sql",
-    "streamlit",
-    "typescript"
+    "redis",
+    "scala",
+    "spark",
+    "sql"
   ],
-  "skill_count": 18,
-  "resume_length": 3678
+  "skill_count": 15,
+  "resume_length": 1135
 }

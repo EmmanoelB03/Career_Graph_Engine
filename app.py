@@ -18,9 +18,9 @@ ONTOLOGY = {
     "classes": {
         "Candidate":      {"color": "#4f8ef7", "priority": 0,   "description": "Perfil do candidato que está sendo analisado"},
         "Role":           {"color": "#a855f7", "priority": 0,   "description": "Cargo-alvo no mercado de trabalho"},
-        "CoreSkill":      {"color": "#00c896", "priority": 1.5, "description": "Skill essencial (≥60% das vagas do cargo)"},
-        "CommonSkill":    {"color": "#f0a500", "priority": 1.2, "description": "Skill comum (30–60% das vagas)"},
-        "NicheSkill":     {"color": "#e05c5c", "priority": 0.8, "description": "Skill de nicho (<30% das vagas)"},
+        "CoreSkill":      {"color": "#00c896", "priority": 1.5, "description": "Skill essencial (peso relativo ≥0.6)"},
+        "CommonSkill":    {"color": "#f0a500", "priority": 1.2, "description": "Skill comum (peso relativo 0.3–0.6)"},
+        "NicheSkill":     {"color": "#e05c5c", "priority": 0.8, "description": "Skill de nicho (peso relativo <0.3)"},
     },
     "relations": {
         "has_skill":  "Candidato possui esta skill",
@@ -31,7 +31,7 @@ ONTOLOGY = {
     # no cálculo do caminho semântico, e o caminho mínimo semântico
     # considera apenas hubs de CoreSkill como nós intermediários válidos.
     "rules": [
-        "CoreSkill (freq ≥ 0.6): peso semântico = peso × 0.5  → caminho mais curto",
+        "CoreSkill (peso relativo ≥ 0.6): peso semântico = peso × 0.5  → caminho mais curto",
         "CommonSkill (0.3–0.6): peso semântico = peso × 1.0   → neutro",
         "NicheSkill (< 0.3): peso semântico = peso × 1.8       → caminho mais caro",
     ],
@@ -472,9 +472,9 @@ if st.session_state.get("ran"):
         st.markdown(f"""
 | Classe | Qtd | Critério |
 |--------|-----|---------|
-| CoreSkill | {len(core_skills)} | freq ≥ 60% das vagas |
-| CommonSkill | {len(common_skills)} | 30%–60% das vagas |
-| NicheSkill | {len(niche_skills)} | < 30% das vagas |
+    | CoreSkill | {len(core_skills)} | peso relativo ≥ 0.6 |
+    | CommonSkill | {len(common_skills)} | peso relativo 0.3–0.6 |
+    | NicheSkill | {len(niche_skills)} | peso relativo < 0.3 |
 """)
 
         # Grafo semântico colorido
@@ -645,7 +645,7 @@ if st.session_state.get("ran"):
 **Interpretação:**
 - Score estrutural `{score_raw}%` trata todas as skills igualmente.
 - Score semântico `{score_sem}%` valoriza quem domina as skills **mais críticas** do cargo
-  (CoreSkill = presentes em ≥60% das vagas reais de {target_role}).
+    (CoreSkill = peso relativo ≥0.6 no perfil de {target_role}).
 - {'O candidato tem um perfil mais alinhado às skills críticas do que o score puro sugere ✅' if delta > 0
    else 'O candidato tem muitas skills de nicho que inflam o score puro — o alinhamento real é menor ⚠️' if delta < 0
    else 'O perfil do candidato tem distribuição equilibrada entre tipos de skill.'}

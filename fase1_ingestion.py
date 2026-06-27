@@ -216,11 +216,11 @@ def aggregate_market_data(jobs: list[dict], target_role: str) -> dict:
             skill_counter[skill] += 1
             role_counter[skill]  += 1
 
-    total = sum(role_counter.values())
+    max_count = max(role_counter.values()) if role_counter else 0
     role_profile = {
-        skill: round(count / total, 3)
+        skill: round(count / max_count, 3)
         for skill, count in role_counter.most_common(15)
-    }
+    } if max_count else {}
 
     return {
         "total_jobs":      len(jobs),
@@ -230,6 +230,26 @@ def aggregate_market_data(jobs: list[dict], target_role: str) -> dict:
         "jobs":            jobs,
         "source":          "adzuna",
     }
+
+
+def rebalance_cached_market(market: dict, target_role: str) -> dict:
+    jobs = market.get("jobs", [])
+    if not jobs:
+        return market
+
+    skill_counter = Counter()
+    for job in jobs:
+        for skill in job.get("skills", []):
+            skill_counter[skill] += 1
+
+    max_count = max(skill_counter.values()) if skill_counter else 0
+    role_profile = {
+        skill: round(count / max_count, 3)
+        for skill, count in skill_counter.most_common(15)
+    } if max_count else {}
+
+    market["role_profiles"] = {target_role: role_profile}
+    return market
 
 
 def run(target_role: str = "Data Engineer", force_refresh: bool = False) -> dict:
@@ -248,9 +268,14 @@ def run(target_role: str = "Data Engineer", force_refresh: bool = False) -> dict
         print(f"Carregando dados locais para '{target_role}'...")
         with open(cache_path, "r", encoding="utf-8") as f:
             market = json.load(f)
+
+        market = rebalance_cached_market(market, target_role)
         
         # Também atualiza o market_data.json genérico para compatibilidade com Fase 3
         with open(Path("data") / "market_data.json", "w", encoding="utf-8") as f:
+            json.dump(market, f, ensure_ascii=False, indent=2)
+
+        with open(cache_path, "w", encoding="utf-8") as f:
             json.dump(market, f, ensure_ascii=False, indent=2)
             
         return market

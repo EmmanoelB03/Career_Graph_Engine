@@ -54,21 +54,21 @@
   },
   "role_profiles": {
     "Data Engineer": {
-      "analytics": 0.24,
-      "data engineering": 0.177,
-      "sql": 0.1,
-      "python": 0.08,
-      "machine learning": 0.065,
-      "aws": 0.059,
-      "azure": 0.056,
-      "data science": 0.024,
-      "google cloud": 0.024,
-      "spark": 0.023,
-      "agile": 0.02,
-      "go": 0.018,
-      "typescript": 0.016,
-      "dbt": 0.013,
-      "r": 0.01
+      "analytics": 1.0,
+      "data engineering": 0.738,
+      "sql": 0.417,
+      "python": 0.334,
+      "machine learning": 0.269,
+      "aws": 0.244,
+      "azure": 0.235,
+      "data science": 0.099,
+      "google cloud": 0.099,
+      "spark": 0.096,
+      "agile": 0.083,
+      "go": 0.076,
+      "typescript": 0.065,
+      "dbt": 0.056,
+      "r": 0.043
     }
   },
   "jobs": [

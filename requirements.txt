@@ -3,7 +3,4 @@ networkx
 pyvis
 rdflib
 streamlit
-google-generative-ai
-networkx
-pyvis
-rdflib
+google-generativeai
